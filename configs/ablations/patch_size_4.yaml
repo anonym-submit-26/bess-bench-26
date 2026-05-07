@@ -1,0 +1,7 @@
+# Ablation: smaller patches (4 pixels, overlap 2 → 63 patches, vs 8 baseline)
+# batch_size halved to keep GPU memory similar (~63 × 128d tokens vs 31 × 128d).
+tag: patch_size_4
+axis: patch_size
+overrides:
+  patch_size: 4
+  batch_size: 128

@@ -1,0 +1,19 @@
+{
+  "n_stars": 1463,
+  "n_spectra": 26937,
+  "d_embedding": 128,
+  "checkpoint": "anonym-submit-26/bemae-halpha-v1",
+  "seed": 42,
+  "halpha_half_window": 50.0,
+  "n_bins": 128,
+  "include_echelle": true,
+  "obs_stats": {
+    "min": 1,
+    "max": 1124,
+    "median": 4.0,
+    "mean": 18.41216678058783,
+    "total": 26937
+  },
+  "stars_with_30plus": 194,
+  "stars_with_100plus": 42
+}

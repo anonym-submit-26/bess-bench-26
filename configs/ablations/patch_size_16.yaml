@@ -1,0 +1,5 @@
+# Ablation: larger patches (16 pixels, overlap 8 → 15 patches, vs 8 baseline)
+tag: patch_size_16
+axis: patch_size
+overrides:
+  patch_size: 16

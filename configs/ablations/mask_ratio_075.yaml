@@ -1,0 +1,5 @@
+# Ablation: higher mask ratio (75 %, vs 60 % baseline)
+tag: mask_ratio_075
+axis: mask_ratio
+overrides:
+  mask_ratio: 0.75

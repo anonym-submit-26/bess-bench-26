@@ -1,0 +1,5 @@
+# Ablation: deeper transformer (6 layers, vs 4 baseline)
+tag: n_layers_6
+axis: n_layers
+overrides:
+  n_layers: 6

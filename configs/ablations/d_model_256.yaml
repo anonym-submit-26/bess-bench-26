@@ -1,0 +1,5 @@
+# Ablation: wider hidden dim (256, vs 128 baseline)
+tag: d_model_256
+axis: d_model
+overrides:
+  d_model: 256
