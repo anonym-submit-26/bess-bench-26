@@ -1,0 +1,47 @@
+{
+  "model_type": "bemae-halpha",
+  "version": "1.0",
+  "model_id": "anonym-submit-26/bemae-halpha-v1",
+  "source_checkpoint": "runs/Halpha_all_seed42/best.pt",
+  "seed": 42,
+  "n_params_encoder": 794624,
+  "input": {
+    "n_bins": 128,
+    "halpha_center_angstrom": 6562.8,
+    "halpha_half_window_angstrom": 50.0,
+    "wavelength_range_angstrom": [
+      6512.8,
+      6612.8
+    ]
+  },
+  "output": {
+    "embedding_dim": 128,
+    "name": "z_halpha"
+  },
+  "model_config": {
+    "d_model": 128,
+    "n_layers": 4,
+    "n_heads": 4,
+    "d_ff": 512,
+    "patch_size": 8,
+    "patch_overlap": 4,
+    "max_seq_len": 128,
+    "dropout": 0.1,
+    "d_decoder": 64,
+    "n_decoder_layers": 2,
+    "n_decoder_heads": 4
+  },
+  "training": {
+    "val_mae_loss": 0.33542040540348916,
+    "epoch_best": 45,
+    "dataset_name": "anonym-submit-26/bess-bench-26",
+    "subset": "Halpha_all",
+    "batch_size": 256,
+    "epochs": 80,
+    "lr": 0.0001,
+    "weight_decay": 0.05,
+    "warmup_epochs": 5,
+    "mask_ratio": 0.6,
+    "seed": 42
+  }
+}
