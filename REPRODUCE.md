@@ -24,7 +24,7 @@ and skips the multi-seed / ablation grid.
 ### 1. Clone and create environment
 
 ```bash
-git clone https://github.com/anonym-submit-26/bess-bench-26.git && cd script
+git clone https://github.com/anonym-submit-26/bess-bench-26.git && cd bess-bench-26
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
