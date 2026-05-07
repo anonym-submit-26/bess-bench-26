@@ -1,0 +1,77 @@
+{
+  "context_len": 10,
+  "seeds": [
+    42
+  ],
+  "per_seed": {
+    "42": {
+      "config": {
+        "context_len": 10,
+        "cutoff_mjd": 59215.0,
+        "n_train": 12415,
+        "n_test": 6664,
+        "ridge_alpha": 42.81332398719396,
+        "n_bootstrap": 10000,
+        "bootstrap_seed": 42
+      },
+      "global": {
+        "mae_model": 1.4543,
+        "mae_persist": 1.4347,
+        "ratio_mae": 1.0137,
+        "ratio_mae_ci95": [
+          0.9911,
+          1.0377
+        ],
+        "ratio_mae_boot_mean": 1.0138,
+        "frac_boot_ratios_lt_1": 0.1243,
+        "r2_model": 0.9769,
+        "r2_persist": 0.9747,
+        "n_test_stars": 432,
+        "stars_beating_persist": 229,
+        "pct_beating_persist": 53.0,
+        "median_per_star_ratio": 0.9776
+      },
+      "by_horizon": {
+        "< 7d": {
+          "n": 2782,
+          "mae_model": 1.0539,
+          "mae_persist": 0.972,
+          "ratio": 1.0844
+        },
+        "7-30d": {
+          "n": 1319,
+          "mae_model": 1.3028,
+          "mae_persist": 1.3091,
+          "ratio": 0.9952
+        },
+        "30-90d": {
+          "n": 659,
+          "mae_model": 1.6517,
+          "mae_persist": 1.7026,
+          "ratio": 0.9701
+        },
+        "90-365d": {
+          "n": 1376,
+          "mae_model": 1.9263,
+          "mae_persist": 2.0172,
+          "ratio": 0.955
+        },
+        "> 365d": {
+          "n": 528,
+          "mae_model": 2.466,
+          "mae_persist": 2.3337,
+          "ratio": 1.0567
+        }
+      }
+    }
+  },
+  "aggregate": {
+    "note": "Single-seed point estimate; uncertainty via bootstrap CI on test predictions.",
+    "ratio_mae": 1.0137,
+    "ratio_mae_ci95": [
+      0.9911,
+      1.0377
+    ],
+    "frac_boot_ratios_lt_1": 0.1243
+  }
+}

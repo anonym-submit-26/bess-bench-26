@@ -1,0 +1,12 @@
+{
+  "total_spectra_raw": 339115,
+  "n_with_hbeta_coverage": 2652,
+  "hbeta_coverage_pct": 0.78,
+  "n_stars": 1094,
+  "n_without_coverage": 336463,
+  "n_bad": 0,
+  "window_center_AA": 4861.3,
+  "window_half_width_AA": 50.0,
+  "n_bins": 128,
+  "output_path": "results/spectral_features_hbeta.pt"
+}

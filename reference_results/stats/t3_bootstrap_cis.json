@@ -1,0 +1,171 @@
+{
+  "generated_at": "2026-05-02T19:40:03.504179",
+  "n_bootstrap": 10000,
+  "bootstrap_seed": 42,
+  "rule_definition": {
+    "name": "CI95_strictly_below_1",
+    "description": "A baseline beats persistence iff the 95% bootstrap confidence interval on ratio_mae = MAE(model)/MAE(persist) lies strictly below 1.0. Conversely, a CI strictly above 1.0 is unambiguous failure."
+  },
+  "pca_ridge_bootstrap": {
+    "by_config": {
+      "pca10_ctx5": {
+        "n_predictions": 7313,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 0.9418634532410124,
+        "mae_model_point": 1.3866703318266798,
+        "mae_persist_point": 1.4722625950237886,
+        "ratio_mae_boot_mean": 0.9419209058388062,
+        "ratio_mae_boot_median": 0.941798591671914,
+        "ratio_mae_ci_lo": 0.9274746268627317,
+        "ratio_mae_ci_hi": 0.9567656843616866,
+        "frac_ratios_lt_1": 1.0,
+        "config": {
+          "n_pca": 10,
+          "context_len": 5,
+          "cutoff_mjd": 59215.0,
+          "n_train": 14475,
+          "n_test": 7313,
+          "pca_variance_explained": 0.9942,
+          "ridge_alpha": 6.158482110660261
+        }
+      },
+      "pca10_ctx10": {
+        "n_predictions": 6664,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 0.956028150327955,
+        "mae_model_point": 1.3715714552142213,
+        "mae_persist_point": 1.434655930103856,
+        "ratio_mae_boot_mean": 0.9560861410017718,
+        "ratio_mae_boot_median": 0.956109282544103,
+        "ratio_mae_ci_lo": 0.9367881195899176,
+        "ratio_mae_ci_hi": 0.9763024828929479,
+        "frac_ratios_lt_1": 1.0,
+        "config": {
+          "n_pca": 10,
+          "context_len": 10,
+          "cutoff_mjd": 59215.0,
+          "n_train": 12415,
+          "n_test": 6664,
+          "pca_variance_explained": 0.9942,
+          "ridge_alpha": 16.23776739188721
+        }
+      },
+      "pca50_ctx5": {
+        "n_predictions": 7313,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 0.9834602329325843,
+        "mae_model_point": 1.4479117146400262,
+        "mae_persist_point": 1.4722625950237886,
+        "ratio_mae_boot_mean": 0.9834976085185457,
+        "ratio_mae_boot_median": 0.9834784642569625,
+        "ratio_mae_ci_lo": 0.9657605164107596,
+        "ratio_mae_ci_hi": 1.001717213196282,
+        "frac_ratios_lt_1": 0.9635,
+        "config": {
+          "n_pca": 50,
+          "context_len": 5,
+          "cutoff_mjd": 59215.0,
+          "n_train": 14475,
+          "n_test": 7313,
+          "pca_variance_explained": 0.9993,
+          "ridge_alpha": 6.158482110660261
+        }
+      },
+      "pca50_ctx10": {
+        "n_predictions": 6664,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 1.0401021417214456,
+        "mae_model_point": 1.492188705534393,
+        "mae_persist_point": 1.434655930103856,
+        "ratio_mae_boot_mean": 1.0400851711235692,
+        "ratio_mae_boot_median": 1.0398678699853028,
+        "ratio_mae_ci_lo": 1.0164603779588006,
+        "ratio_mae_ci_hi": 1.0649933478151885,
+        "frac_ratios_lt_1": 0.0002,
+        "config": {
+          "n_pca": 50,
+          "context_len": 10,
+          "cutoff_mjd": 59215.0,
+          "n_train": 12415,
+          "n_test": 6664,
+          "pca_variance_explained": 0.9993,
+          "ridge_alpha": 16.23776739188721
+        }
+      }
+    }
+  },
+  "ts_fm_bootstrap": {
+    "by_config": {
+      "chronos_bolt_small": {
+        "n_predictions": 8118,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 0.9813863075751432,
+        "mae_model_point": 1.600386523074813,
+        "mae_persist_point": 1.6307406275405711,
+        "ratio_mae_boot_mean": 0.9812821537556705,
+        "ratio_mae_boot_median": 0.9811970574654958,
+        "ratio_mae_ci_lo": 0.9660685556634787,
+        "ratio_mae_ci_hi": 0.9971800787551529,
+        "frac_ratios_lt_1": 0.9893,
+        "config": {
+          "model": "chronos_bolt_small",
+          "hf_id": "amazon/chronos-bolt-small",
+          "params_M": 48,
+          "max_context": 64,
+          "horizon": 1,
+          "cutoff_mjd": 59215.0,
+          "n_test": 8118
+        }
+      },
+      "chronos_bolt_base": {
+        "n_predictions": 8118,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 0.9675555134457283,
+        "mae_model_point": 1.5778320851768266,
+        "mae_persist_point": 1.6307406275405711,
+        "ratio_mae_boot_mean": 0.9674220960460826,
+        "ratio_mae_boot_median": 0.9673717726943192,
+        "ratio_mae_ci_lo": 0.9545095658351226,
+        "ratio_mae_ci_hi": 0.9803243336061692,
+        "frac_ratios_lt_1": 1.0,
+        "config": {
+          "model": "chronos_bolt_base",
+          "hf_id": "amazon/chronos-bolt-base",
+          "params_M": 205,
+          "max_context": 64,
+          "horizon": 1,
+          "cutoff_mjd": 59215.0,
+          "n_test": 8118
+        }
+      },
+      "timesfm_2_0_500m": {
+        "n_predictions": 8118,
+        "n_bootstrap": 10000,
+        "ci_level": 95.0,
+        "ratio_mae_point": 0.968938842314843,
+        "mae_model_point": 1.5800879357649416,
+        "mae_persist_point": 1.6307406275405711,
+        "ratio_mae_boot_mean": 0.9688824529526741,
+        "ratio_mae_boot_median": 0.9687103855006529,
+        "ratio_mae_ci_lo": 0.9489159506317241,
+        "ratio_mae_ci_hi": 0.9894775206249964,
+        "frac_ratios_lt_1": 0.9979,
+        "config": {
+          "model": "timesfm_2_0_500m",
+          "hf_id": "google/timesfm-2.0-500m-pytorch",
+          "params_M": 500,
+          "max_context": 64,
+          "horizon": 1,
+          "cutoff_mjd": 59215.0,
+          "n_test": 8118
+        }
+      }
+    }
+  }
+}

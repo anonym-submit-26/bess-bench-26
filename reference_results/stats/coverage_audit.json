@@ -1,0 +1,334 @@
+{
+  "dataset": "anonym-submit-26/bess-bench-26",
+  "metadata_source": "paper/tables/metadata_slim.parquet",
+  "n_spectra_total": 339115,
+  "n_spectra_valid": 339115,
+  "half_window_AA": 50.0,
+  "echelle_orders_policy": "include",
+  "coverage_by_line": {
+    "Halpha": {
+      "line_center_AA": 6562.8,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        6512.8,
+        6612.8
+      ],
+      "n_covered": 26937,
+      "n_total": 339115,
+      "fraction": 0.079433,
+      "percent": 7.943
+    },
+    "Hbeta": {
+      "line_center_AA": 4861.3,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        4811.3,
+        4911.3
+      ],
+      "n_covered": 2652,
+      "n_total": 339115,
+      "fraction": 0.00782,
+      "percent": 0.782
+    },
+    "Hgamma": {
+      "line_center_AA": 4340.5,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        4290.5,
+        4390.5
+      ],
+      "n_covered": 2337,
+      "n_total": 339115,
+      "fraction": 0.006891,
+      "percent": 0.689
+    },
+    "Hdelta": {
+      "line_center_AA": 4101.7,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        4051.7,
+        4151.7
+      ],
+      "n_covered": 2246,
+      "n_total": 339115,
+      "fraction": 0.006623,
+      "percent": 0.662
+    },
+    "HeI_5876": {
+      "line_center_AA": 5876.0,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        5826.0,
+        5926.0
+      ],
+      "n_covered": 6570,
+      "n_total": 339115,
+      "fraction": 0.019374,
+      "percent": 1.937
+    },
+    "FeII_5169": {
+      "line_center_AA": 5169.0,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        5119.0,
+        5219.0
+      ],
+      "n_covered": 2421,
+      "n_total": 339115,
+      "fraction": 0.007139,
+      "percent": 0.714
+    },
+    "NaD": {
+      "line_center_AA": 5893.0,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        5843.0,
+        5943.0
+      ],
+      "n_covered": 11413,
+      "n_total": 339115,
+      "fraction": 0.033655,
+      "percent": 3.366
+    },
+    "OI_7772": {
+      "line_center_AA": 7772.0,
+      "half_window_AA": 50.0,
+      "window_AA": [
+        7722.0,
+        7822.0
+      ],
+      "n_covered": 1387,
+      "n_total": 339115,
+      "fraction": 0.00409,
+      "percent": 0.409
+    }
+  },
+  "coverage_by_physical_observation": {
+    "n_physical_observations": 37624,
+    "grouping": "(star_name, mjd)",
+    "aggregation": "lambda_min=min, lambda_max=max across orders",
+    "coverage_by_line": {
+      "Halpha": {
+        "line_center_AA": 6562.8,
+        "n_covered": 29207,
+        "n_total": 37624,
+        "fraction": 0.776286,
+        "percent": 77.629
+      },
+      "Hbeta": {
+        "line_center_AA": 4861.3,
+        "n_covered": 13416,
+        "n_total": 37624,
+        "fraction": 0.356581,
+        "percent": 35.658
+      },
+      "Hgamma": {
+        "line_center_AA": 4340.5,
+        "n_covered": 12242,
+        "n_total": 37624,
+        "fraction": 0.325377,
+        "percent": 32.538
+      },
+      "Hdelta": {
+        "line_center_AA": 4101.7,
+        "n_covered": 7317,
+        "n_total": 37624,
+        "fraction": 0.194477,
+        "percent": 19.448
+      },
+      "HeI_5876": {
+        "line_center_AA": 5876.0,
+        "n_covered": 13532,
+        "n_total": 37624,
+        "fraction": 0.359664,
+        "percent": 35.966
+      },
+      "FeII_5169": {
+        "line_center_AA": 5169.0,
+        "n_covered": 13376,
+        "n_total": 37624,
+        "fraction": 0.355518,
+        "percent": 35.552
+      },
+      "NaD": {
+        "line_center_AA": 5893.0,
+        "n_covered": 13536,
+        "n_total": 37624,
+        "fraction": 0.35977,
+        "percent": 35.977
+      },
+      "OI_7772": {
+        "line_center_AA": 7772.0,
+        "n_covered": 1523,
+        "n_total": 37624,
+        "fraction": 0.040479,
+        "percent": 4.048
+      }
+    }
+  },
+  "granularity": {
+    "n_rows": 339115,
+    "n_physical_observations": 37624,
+    "n_unique_stars": 1468,
+    "single_range": {
+      "n_rows": 62476,
+      "n_physical_observations": 27707,
+      "n_unique_stars": 1354
+    },
+    "echelle_order": {
+      "n_rows": 276639,
+      "n_physical_observations": 9917,
+      "n_unique_stars": 915,
+      "median_orders_per_observation": 26.0,
+      "p5_orders_per_observation": 19.0,
+      "p95_orders_per_observation": 40.0
+    }
+  },
+  "observer_breakdown": {
+    "by_observer_type": {
+      "amateur": {
+        "n_rows": 276954,
+        "n_physical_observations": 34456
+      },
+      "professional": {
+        "n_rows": 60169,
+        "n_physical_observations": 1744
+      },
+      "unknown": {
+        "n_rows": 1992,
+        "n_physical_observations": 1424
+      }
+    },
+    "by_resolution_family": {
+      "echelle_order": {
+        "n_rows": 276639,
+        "n_physical_observations": 9917,
+        "n_unique_stars": 915
+      },
+      "single_R_1000_3000": {
+        "n_rows": 635,
+        "n_physical_observations": 635,
+        "n_unique_stars": 376
+      },
+      "single_R_3000_8000": {
+        "n_rows": 5127,
+        "n_physical_observations": 5125,
+        "n_unique_stars": 668
+      },
+      "single_R_ge_8000": {
+        "n_rows": 51516,
+        "n_physical_observations": 16749,
+        "n_unique_stars": 762
+      },
+      "single_R_lt_1000": {
+        "n_rows": 1858,
+        "n_physical_observations": 1858,
+        "n_unique_stars": 965
+      },
+      "single_unknown_R": {
+        "n_rows": 3340,
+        "n_physical_observations": 3340,
+        "n_unique_stars": 308
+      }
+    }
+  },
+  "lambda_quantiles_AA": {
+    "lambda_min_AA": {
+      "p5": 3979.5,
+      "p25": 4554.10009765625,
+      "p50": 5277.000000000001,
+      "p75": 6260.14013671875,
+      "p95": 7006.5,
+      "min": 1150.06799316406,
+      "max": 9952.0498046875,
+      "mean": 5391.564414663573
+    },
+    "lambda_max_AA": {
+      "p5": 4112.5498046875,
+      "p25": 4668.2998046875,
+      "p50": 5412.5498046875,
+      "p75": 6494.5498046875,
+      "p95": 7350.5498046875,
+      "min": 1980.10498046875,
+      "max": 10441.75,
+      "mean": 5551.571339555474
+    }
+  },
+  "breakdown_by_kind": {
+    "single_range": {
+      "n": 62476,
+      "coverage": {
+        "Halpha": {
+          "n_covered": 18534,
+          "percent": 29.666
+        },
+        "Hbeta": {
+          "n_covered": 2457,
+          "percent": 3.933
+        },
+        "Hgamma": {
+          "n_covered": 2324,
+          "percent": 3.72
+        },
+        "Hdelta": {
+          "n_covered": 2238,
+          "percent": 3.582
+        },
+        "HeI_5876": {
+          "n_covered": 2910,
+          "percent": 4.658
+        },
+        "FeII_5169": {
+          "n_covered": 2338,
+          "percent": 3.742
+        },
+        "NaD": {
+          "n_covered": 3020,
+          "percent": 4.834
+        },
+        "OI_7772": {
+          "n_covered": 805,
+          "percent": 1.288
+        }
+      }
+    },
+    "echelle_order": {
+      "n": 276639,
+      "coverage": {
+        "Halpha": {
+          "n_covered": 8403,
+          "percent": 3.038
+        },
+        "Hbeta": {
+          "n_covered": 195,
+          "percent": 0.07
+        },
+        "Hgamma": {
+          "n_covered": 13,
+          "percent": 0.005
+        },
+        "Hdelta": {
+          "n_covered": 8,
+          "percent": 0.003
+        },
+        "HeI_5876": {
+          "n_covered": 3660,
+          "percent": 1.323
+        },
+        "FeII_5169": {
+          "n_covered": 83,
+          "percent": 0.03
+        },
+        "NaD": {
+          "n_covered": 8393,
+          "percent": 3.034
+        },
+        "OI_7772": {
+          "n_covered": 582,
+          "percent": 0.21
+        }
+      }
+    }
+  },
+  "generated_at": "2026-05-02T17:40:14.248988+00:00"
+}

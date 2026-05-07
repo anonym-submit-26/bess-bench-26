@@ -1,0 +1,16 @@
+{
+  "n_stars": 1428,
+  "n_spectra": 26858,
+  "n_finite_fwhm": 26677,
+  "n_finite_vr": 9370,
+  "n_finite_dv": 10804,
+  "n_rejected_low_snr": 3781,
+  "snr_min_threshold": 10.0,
+  "profile_distribution": {
+    "single_peak": 8295,
+    "absorption_pure": 10141,
+    "shell": 3726,
+    "double_asym": 557,
+    "double_peak": 4139
+  }
+}
