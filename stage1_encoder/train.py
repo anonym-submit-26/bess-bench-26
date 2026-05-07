@@ -8,7 +8,7 @@ Simplified compared to the full encoder:
   - Fast training (~20-30 min vs ~2h for the full encoder)
 
 Usage:
-    cd bess_bench/stage1_encoder
+    cd <repo_root>/stage1_encoder
     python train.py
     python train.py --run_name Halpha_clean --min_snr 200 --epochs 100
     python train.py --no_echelle --run_name Halpha_single_order
