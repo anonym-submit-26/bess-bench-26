@@ -23,11 +23,11 @@ This file is consumed by:
   - downstream/t3_ts_fm_baselines.py   (T3 : Chronos/TimesFM zero-shot)
 
 Usage :
-    cd bess_bench/stage1_encoder
+    cd <repo_root>/stage1_encoder
     python precompute_embeddings.py --checkpoint runs/Halpha_all_seed42/best.pt
     # → writes ../data/embeddings_halpha/star_data.pt
 
-To produce one file per seed (used by `run_multiseed.slurm`):
+To produce one file per seed (used by `scripts/cluster/00_pretrain_encoder.slurm`):
     python precompute_embeddings.py \
         --checkpoint runs/Halpha_all_seed123/best.pt \
         --output_dir ../data/embeddings_halpha_seed123
