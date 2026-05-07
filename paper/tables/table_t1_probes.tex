@@ -1,0 +1,11 @@
+\begin{tabular}{lcccc}
+  \toprule
+  Feature & Embedding $z$ (128D) & PCA(10) & PCA(32) & PCA(50) \\
+  \midrule
+  fwhm                 & 0.570 $\pm$ 0.036 & 0.133 $\pm$ 0.000 & 0.165 $\pm$ 0.000 & 0.173 $\pm$ 0.000 \\
+  central\_depth       & 0.925 $\pm$ 0.006 & 0.106 $\pm$ 0.000 & 0.143 $\pm$ 0.000 & 0.163 $\pm$ 0.000 \\
+  delta\_v             & 0.568 $\pm$ 0.020 & 0.248 $\pm$ 0.000 & 0.309 $\pm$ 0.000 & 0.308 $\pm$ 0.000 \\
+  vr\_ratio            & 0.401 $\pm$ 0.030 & 0.284 $\pm$ 0.000 & 0.284 $\pm$ 0.000 & 0.287 $\pm$ 0.000 \\
+  \bottomrule
+\end{tabular}
+% R^2, mean over 3 encoder seeds $\pm$ std across seeds. PCA(32) matches the dimensionality of a linear probe on $z$.

@@ -1,0 +1,17 @@
+\begin{tabular}{lrrrr}
+  \toprule
+  Baseline & MAE (model) & MAE (persist) & Ratio & $R^2$ \\
+  \midrule
+  PCA(10) ctx=5 & 1.387 & 1.472 & \textbf{0.942} & 0.978 \\
+  PCA(10) ctx=10 & 1.372 & 1.435 & \textbf{0.956} & 0.978 \\
+  PCA(50) ctx=5 & 1.448 & 1.472 & \textbf{0.983} & 0.977 \\
+  PCA(50) ctx=10 & 1.492 & 1.435 & 1.040 & 0.976 \\
+  \midrule
+  $z_{128}$+Ridge ctx=5 & 1.477 & 1.472 & 1.003 & 0.975 \\
+  \midrule
+  Chronos-Bolt-S (48\,M) & 1.600 & 1.631 & \textbf{0.981} & -- \\
+  Chronos-Bolt-B (205\,M) & 1.578 & 1.631 & \textbf{0.968} & -- \\
+  TimesFM-2.0 (500\,M) & 1.580 & 1.631 & \textbf{0.969} & -- \\
+  \bottomrule
+\end{tabular}
+% PCA(10)+Ridge with context 5 dominates every baseline, including the larger BeMAE $z_{128}$+Ridge encoder representation and the much larger zero-shot Chronos-Bolt and TimesFM-2.0 models. $R^2$ unavailable for zero-shot foundation models. Bold = ratio $<$ 1.

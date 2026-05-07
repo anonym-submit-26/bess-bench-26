@@ -1,0 +1,42 @@
+Attribution 4.0 International (CC BY 4.0)
+
+BESS-Bench is released under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+
+  * Share — copy and redistribute the material in any medium or format.
+  * Adapt — remix, transform, and build upon the material
+    for any purpose, even commercially.
+
+Under the following terms:
+
+  * Attribution — You must give appropriate credit, provide a link
+    to the license, and indicate if changes were made. You may do so
+    in any reasonable manner, but not in any way that suggests the
+    licensor endorses you or your use.
+
+  * No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+Required attribution:
+
+  The BeSS consortium (Be Star Spectra database, https://basebe.obspm.fr/),
+  using the canonical credit recommended by the archive:
+
+    "This research has made use of the BeSS database, operated at LESIA,
+     Observatoire de Paris-Meudon, France: http://basebe.obspm.fr"
+     (Neiner et al. 2011)
+
+  together with a citation to this work:
+  "BESS-Bench: Benchmarking Spectral Representations for Be-Star Variability", 2026.
+
+  Individual observer names are not redistributed (FITS OBSERVER
+  keywords are stripped at export). Aggregate observer information
+  (column `observer_type`: amateur / professional / unknown) is
+  preserved for statistical analyses; site coordinates are coarsened
+  (lat/lon to 0.1 deg, elevation to 100 m) to prevent
+  re-identification while supporting hemispheric / air-mass studies.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode

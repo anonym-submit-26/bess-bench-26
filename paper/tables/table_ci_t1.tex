@@ -1,0 +1,23 @@
+\begin{tabular}{llrr}
+  \toprule
+  Feature & Method & $R^2$ & 95\% CI \\
+  \midrule
+  fwhm                 & z     & \textbf{0.565} & \textbf{[0.555, 0.575]} \\
+  fwhm                 & pca10 & 0.133 & [0.129, 0.137] \\
+  fwhm                 & pca50 & 0.173 & [0.164, 0.182] \\
+  \midrule
+  central\_depth       & z     & \textbf{0.926} & \textbf{[0.923, 0.929]} \\
+  central\_depth       & pca10 & 0.106 & [0.103, 0.109] \\
+  central\_depth       & pca50 & 0.163 & [0.151, 0.175] \\
+  \midrule
+  delta\_v             & z     & \textbf{0.587} & \textbf{[0.573, 0.602]} \\
+  delta\_v             & pca10 & 0.248 & [0.238, 0.258] \\
+  delta\_v             & pca50 & 0.308 & [0.301, 0.315] \\
+  \midrule
+  vr\_ratio            & z     & \textbf{0.383} & \textbf{[0.308, 0.459]} \\
+  vr\_ratio            & pca10 & 0.284 & [0.253, 0.315] \\
+  vr\_ratio            & pca50 & 0.287 & [0.259, 0.315] \\
+
+  \bottomrule
+\end{tabular}
+% Gaussian 95\% CI from 5-fold CV: $\bar{R}^2 \pm 1.96 s / \sqrt{5}$. Bold = highest $R^2$ for that feature.
