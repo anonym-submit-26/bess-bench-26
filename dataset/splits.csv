@@ -1,0 +1,1469 @@
+star_name,split
+10 CAS,train
+10 CMA,train
+105 TAU,test
+11 CAM,test
+11 CYG,train
+12 AUR,test
+12 VUL,validation
+120 TAU,test
+13 TAU,train
+14 LAC,validation
+141 TAU,validation
+15 MON,test
+16 PEG,train
+17 SEX,validation
+17 TAU,train
+18 AND,train
+19 MON,train
+2 CET,validation
+2 ORI,train
+20 VUL,train
+228 ERI,train
+23 TAU,train
+25 CYG,test
+25 ORI,train
+25 PEG,train
+25 VUL,train
+27 CMA,train
+28 CYG,validation
+29 DOR,train
+31 PEG,train
+39 CRU,validation
+4 AQL,train
+4 HER,train
+43 ORI,train
+48 LIB,train
+48 PER,train
+5 CNC,validation
+51 OPH,validation
+53 BOO,train
+56 ERI,train
+59 CYG,validation
+60 CYG,train
+64 SER,validation
+66 OPH,test
+69 ORI,train
+7 VUL,validation
+8 LAC A,test
+A CEN,train
+AB AUR,train
+ACHERNAR,train
+AG AUR,train
+AG CAR,train
+AG+64 187,train
+AL 207,train
+ALCYONE,train
+ALF ARA,train
+ALF COL,test
+ALFIRK,train
+ALS 7394,train
+AN COL,validation
+AS 37,train
+AX MON,train
+AZV 162,train
+AZV 191,train
+AZV 308,test
+AZV 397,train
+AZV 437,test
+BD+14 3887,train
+BD+30 3526,validation
+BD+35 1169,train
+BD+36 3956B,validation
+BD+36 4145,train
+BD+37 1292,train
+BD+38 4093,test
+BD+40 4353,test
+BD+413731,validation
+BD+42 4162,train
+BD+44 3475,train
+BD+44 3594,test
+BD+46 2948,train
+BD+46 3022,test
+BD+46 3087,train
+BD+47 3148,train
+BD+47 3302,train
+BD+471108,train
+BD+49 2768,test
+BD+49 3615,test
+BD+50 3180,test
+BD+50 3194,train
+BD+50 3495,train
+BD+50 395,train
+BD+50 447,test
+BD+53 2790,train
+BD+53 2964,train
+BD+54 2399,train
+BD+54 2676,validation
+BD+54 2718,train
+BD+54 2887,train
+BD+55 521,validation
+BD+55 81,validation
+BD+550521,train
+BD+55880,train
+BD+56 251,train
+BD+56 259,test
+BD+56 2626,train
+BD+56 2811,train
+BD+56 489,validation
+BD+56 493,train
+BD+56 509,train
+BD+56 511,train
+BD+56 534,train
+BD+56 573,train
+BD+56 579,train
+BD+56 582,train
+BD+56 612,validation
+BD+56 624,train
+BD+56 727,train
+BD+57 243,train
+BD+57 2678,train
+BD+57 334,train
+BD+57 515,train
+BD+57 607A,train
+BD+572615,train
+BD+58 247,validation
+BD+58 277,train
+BD+58 458,train
+BD+58 492,train
+BD+58 610,test
+BD+59 246,train
+BD+59 250,train
+BD+59 2829,train
+BD+59 343,validation
+BD+59 497,test
+BD+60 114,train
+BD+60 180,train
+BD+60 2405,train
+BD+60 2584,train
+BD+60 2600,train
+BD+60 274,validation
+BD+60 307,train
+BD+60 340,train
+BD+60 368,train
+BD+60 393,test
+BD+61 105,test
+BD+61 122,train
+BD+61 2292,train
+BD+61 2355,train
+BD+61 2380,train
+BD+61 2494,test
+BD+61 371,train
+BD+61 39,train
+BD+62 1,validation
+BD+62 11,train
+BD+62 2158,train
+BD+62 2346,test
+BD+62 245,train
+BD+62 261,train
+BD+62 271,train
+BD+62 285,train
+BD+62 287,train
+BD+62 300,validation
+BD+62 89,train
+BD+62 99,train
+BD+63 124,train
+BD+63 261,train
+BD+63 48,train
+BD+65 1970,validation
+BD+66 64,train
+BD+69 48,train
+BD05 4819,train
+BD06 1895,train
+BD09 4713,train
+BD094858,train
+BD10 2073,train
+BD10 2133,train
+BD11 2043,train
+BD13 1825,train
+BD13 2040,train
+BD13 4933,validation
+BD13 5073,train
+BD14 1751,validation
+BD14 5047,test
+BD15 5090,train
+BD20 2183,train
+BD21 1449,train
+BET CMI,train
+BET CYG B,train
+BET HYA,train
+BET LYR,train
+BET MON A,validation
+BET PSC,train
+BET SCL,train
+BF ORI,train
+BG PHE,validation
+BI 156,train
+BK CAM,train
+BT CMI,train
+BZ CRU,train
+CD22 12093,train
+CD30 5079,train
+CD31 5034,train
+CD32 4140,train
+CD32 4657,train
+CD44 4392,train
+CD45 4826,train
+CD47 4412,train
+CD49 3441,train
+CD55 3338,test
+CD55 3417,train
+CD56 6163,train
+CD60 4299,train
+CD70 798,train
+CHI OPH,train
+CI CAM,train
+CK CIR,train
+CL* NGC 2004 BBBC 451,train
+CL* NGC 2004 KWBBE 1055,train
+CL* NGC 2004 KWBBE 1108,train
+CL* NGC 2004 KWBBE 1196,validation
+CL* NGC 2004 KWBBE 152,train
+CL* NGC 2004 KWBBE 203,test
+CL* NGC 2004 KWBBE 276,test
+CL* NGC 2004 KWBBE 287,validation
+CL* NGC 2004 KWBBE 344,train
+CL* NGC 2004 KWBBE 347,train
+CL* NGC 2004 KWBBE 374,train
+CL* NGC 2004 KWBBE 44,test
+CL* NGC 2004 KWBBE 579,train
+CL* NGC 2004 KWBBE 622,train
+CL* NGC 2004 KWBBE 624,train
+CL* NGC 2004 KWBBE 874,train
+CL* NGC 2004 MHFBE 103914,train
+CL* NGC 2004 MHFBE 107771,train
+CL* NGC 2004 MHFBE 108272,test
+CL* NGC 2004 MHFBE 110827,test
+CL* NGC 2004 MHFBE 116297,validation
+CL* NGC 2004 MHFBE 118313,train
+CL* NGC 2004 MHFBE 118784,train
+CL* NGC 2004 MHFBE 55920,train
+CL* NGC 2004 MHFBE 73013,train
+CL* NGC 2004 MHFBE 77796,train
+CL* NGC 2004 ROB B3,test
+CL* NGC 2004 ROB C5,train
+CL* NGC 663 PUM II 222,train
+CL* NGC 663 SAN 17,test
+CL* NGC 6913 SAND 151,test
+CL* NGC 7235 HOAG 9,validation
+CL* NGC 884 LAV 2224,train
+CL* RUPRECHT 55 DE 32,train
+CO CIR,test
+CP CIR,test
+CPD60 1829,train
+CPD63 2495,validation
+CQ UMA,test
+CR CAM,train
+CT CAM,train
+CU CIR,train
+CV CIR,train
+CW CEP,train
+CW CIR,train
+CW CRU,test
+CX DRA,test
+D LUP,train
+DE CAM,train
+DEL CEN,train
+DEL SCO,validation
+DG CRU,validation
+DK CRU,validation
+DO CRU,train
+DR CHA,train
+DZ TUC,train
+E CAR,train
+EC 10475 2118,train
+EE CEP,train
+EM CEP,train
+EM* AS 16,test
+EM* AS 2,train
+EM* AS 28,train
+EM* AS 396,test
+EM* AS 518,test
+EM* AS 521,test
+EM* AS 53,test
+EM* CDS 1215,train
+EM* CDS 1295,train
+EM* CDS 1367,train
+EM* CDS 1464,train
+EM* CDS 477,test
+EM* CDS 78,test
+EM* GGA 110,test
+EM* GGA 163,test
+EM* GGA 166,train
+EM* GGA 168,train
+EM* MWC 1030,train
+EM* MWC 465,validation
+EM* MWC 470,train
+EM* MWC 473,train
+EM* MWC 485,train
+EM* MWC 709,validation
+EM* MWC 711,test
+EM* MWC 715,train
+EM* STHA 50,train
+EM* VES 195,train
+EM* VES 704,test
+EM*AS 3,validation
+EM*AS 341,train
+EM*AS 368,train
+EM*AS 4,train
+EM*CDS 1054,train
+EM*GGA 148,validation
+EM*GGA 50,train
+EM*MWC 1063,train
+EM*MWC 433,train
+EM*MWC 448,train
+EM*MWC 466,test
+EM*MWC 659,validation
+EM*MWC 674,train
+EM*MWC 677,train
+EM*MWC 678,train
+EM*MWC 800,train
+EM*MWC300,train
+EM*MWC685,train
+EM*STHA 143,train
+EM*STHA 166,train
+EM*STHA 198,train
+EM*STHA160,validation
+EM*STHA22,train
+EPS APS,validation
+EPS CAP,train
+EPS CAS,train
+EPS PSA,validation
+EPS TUC,train
+ETA CEN,test
+ETA ORI,train
+ETA PSA,train
+EW LAC,test
+F CAR,train
+FF CAM,train
+FR CMA,train
+FS CMA,train
+FU CMA,train
+FV CMA,test
+FW CMA,train
+FY CMA,train
+FY VEL,train
+GAIA DR2 2059091434344434048,validation
+GAM ARA,train
+GAM CAS,train
+GAM CIR,train
+GP VIR,train
+GSC 02284 00889,validation
+GSC02342 00359,validation
+GSC03588 00834,train
+GW VEL,test
+HBHA 3703 11,train
+HBHA 3703 48,train
+HBHA 4203 02,train
+HBHA 703 05,validation
+HBHA6207 50,train
+HD054464,train
+HD055806,test
+HD100199,train
+HD101142,test
+HD101915,train
+HD102154,train
+HD102423,train
+HD103287,train
+HD103574,validation
+HD103872,train
+HD104582,test
+HD105027,train
+HD106730,validation
+HD106793,train
+HD108051,train
+HD109857,train
+HD110699,test
+HD110863,train
+HD112028,test
+HD112147,train
+HD112512,train
+HD113573,train
+HD114200,test
+HD114424,test
+HD114516,train
+HD115532,train
+HD11554,train
+HD116875,train
+HD117172,train
+HD118094,test
+HD118325,train
+HD119162,train
+HD119423,train
+HD119682,train
+HD119940,train
+HD119958,test
+HD120330,train
+HD120417,train
+HD120526,train
+HD120766,train
+HD121045,train
+HD122282,train
+HD122669,test
+HD123131,train
+HD123207,train
+HD123296,train
+HD124489,validation
+HD124639,train
+HD124834,train
+HD125015,train
+HD125106,train
+HD125159,validation
+HD126508,train
+HD126527,train
+HD126693,validation
+HD127617,train
+HD127756,train
+HD128477,test
+HD12856,train
+HD129772,train
+HD129842,train
+HD130437,train
+HD13051,train
+HD130534,test
+HD130574,train
+HD130648,train
+HD131168,validation
+HD131891,train
+HD13429,validation
+HD134401,validation
+HD134484,train
+HD135160,train
+HD135344,train
+HD135354,train
+HD135570,validation
+HD13561,train
+HD13590,train
+HD136250,train
+HD13669,validation
+HD136860,train
+HD136968,train
+HD137380,train
+HD137836,train
+HD138477,train
+HD138539,train
+HD13867,validation
+HD13890,train
+HD13900,train
+HD139431,train
+HD139491,train
+HD139614,train
+HD139790,validation
+HD140114,train
+HD140843,train
+HD140883,validation
+HD140926,validation
+HD140946,test
+HD14162,validation
+HD141689,train
+HD141926,train
+HD142349,train
+HD143343,validation
+HD143578,validation
+HD143700,train
+HD144432,train
+HD144555,train
+HD144965,train
+HD144970,train
+HD146381,train
+HD146444,train
+HD146463,validation
+HD146501,train
+HD146531,train
+HD146596,train
+HD147196,validation
+HD147274,train
+HD147302,train
+HD147320,test
+HD147756,test
+HD148027,test
+HD148028,train
+HD14850,train
+HD148567,train
+HD148692,train
+HD148877,test
+HD149610,test
+HD149671,train
+HD150230,train
+HD150288,train
+HD150336,train
+HD150422,train
+HD150533,validation
+HD150930,test
+HD151113,train
+HD151743,validation
+HD152505,test
+HD152541,train
+HD153199,train
+HD153222,train
+HD153262,train
+HD153295,validation
+HD153879,train
+HD153977,train
+HD154111,test
+HD154154,validation
+HD154170,train
+HD154188,test
+HD154218,train
+HD154243,train
+HD154314,train
+HD15450,train
+HD154538,train
+HD154911,train
+HD155349,train
+HD155352,validation
+HD155436,validation
+HD155438,train
+HD155851,train
+HD156008,train
+HD156172,train
+HD156398,test
+HD156409,train
+HD156702,train
+HD156831,train
+HD157099,test
+HD157273,validation
+HD158319,train
+HD159489,train
+HD15963,train
+HD160546,test
+HD160648,train
+HD161004,train
+HD161306,train
+HD161705,train
+HD161774,train
+HD161807,test
+HD162352,test
+HD162428,train
+HD162568,train
+HD16264,train
+HD162717,train
+HD163007,validation
+HD163296,validation
+HD163435,train
+HD163453,train
+HD163454,train
+HD163848,validation
+HD164050,train
+HD164492D,train
+HD164703,validation
+HD164906,train
+HD164947,train
+HD165063,train
+HD165285,validation
+HD165365,train
+HD165783,train
+HD165854,train
+HD166188,validation
+HD166256,train
+HD166345,train
+HD166524,test
+HD166566,train
+HD166666,test
+HD166917,train
+HD167375,validation
+HD168135,test
+HD168331,train
+HD168957,train
+HD169033,train
+HD169142,train
+HD169805,test
+HD169999,train
+HD170009,validation
+HD170235,validation
+HD170835,validation
+HD171219,test
+HD171469,test
+HD171754,validation
+HD171757,train
+HD171780,train
+HD172122,test
+HD172158,train
+HD172694,train
+HD173371,validation
+HD173530,test
+HD173637,train
+HD173817,test
+HD174105,test
+HD174179,test
+HD174512,validation
+HD174513,test
+HD174571,train
+HD174705,test
+HD174775,train
+HD174886,validation
+HD17505,train
+HD175511,train
+HD175863,train
+HD176386,train
+HD176630,train
+HD177015,train
+HD177427,train
+HD177648,test
+HD178920,train
+HD179218,test
+HD179253,validation
+HD179343,train
+HD181231,validation
+HD181308,train
+HD181367,train
+HD181409,train
+HD181709,train
+HD181803,train
+HD182550,train
+HD183035,test
+HD183339,validation
+HD184767,train
+HD18552,validation
+HD186456,train
+HD186485,test
+HD187350,test
+HD18877,test
+HD189689,validation
+HD189847,test
+HD190150,train
+HD190864,train
+HD190944,train
+HD191378,train
+HD192445,validation
+HD193182,train
+HD193516,train
+HD194057,train
+HD194244,train
+HD194779,train
+HD195407,train
+HD195554,train
+HD196712,train
+HD197038,train
+HD197434,test
+HD19818,test
+HD198512,train
+HD198931,train
+HD199218,train
+HD19993,test
+HD20017,train
+HD200775,train
+HD201036,train
+HD20134,train
+HD201522,train
+HD201836,train
+HD203024,test
+HD203356,validation
+HD203374,test
+HD20340,test
+HD203467,train
+HD204185,train
+HD205060,train
+HD205551,train
+HD20566,train
+HD206773,train
+HD207232,train
+HD208220,train
+HD208682,train
+HD20899,train
+HD212666,train
+HD213088,train
+HD213129,train
+HD21362,train
+HD21455,test
+HD215227,train
+HD215605,train
+HD215837,train
+HD216044,train
+HD216057,test
+HD216113,train
+HD21620,train
+HD21641,validation
+HD21650,train
+HD216629,train
+HD217061,train
+HD219523,train
+HD222185,test
+HD223044,train
+HD223387,validation
+HD223924,train
+HD224544,train
+HD224599,train
+HD224905,train
+HD225095,train
+HD225985,train
+HD227611,train
+HD22780,train
+HD228041,train
+HD228104,train
+HD228256,train
+HD228438,train
+HD228535,test
+HD228658,train
+HD228860,test
+HD229171,test
+HD230579,train
+HD232552,train
+HD232588,train
+HD232590,train
+HD232940,train
+HD235350,validation
+HD23552,train
+HD235668,train
+HD235795,train
+HD236689,test
+HD236935,train
+HD236940,validation
+HD237056,validation
+HD237060,train
+HD237090,train
+HD237091,train
+HD237118,test
+HD237134,test
+HD23800,train
+HD23982,train
+HD240010,train
+HD240249,validation
+HD241360,train
+HD241570,train
+HD24479,train
+HD244894,test
+HD245310,validation
+HD245493,train
+HD245770,train
+HD246537,train
+HD246878,train
+HD247525,validation
+HD248390,train
+HD248753,train
+HD24912,train
+HD249179,train
+HD249695,train
+HD249879,validation
+HD250028,train
+HD250163,train
+HD250289,train
+HD250854,validation
+HD250980,train
+HD251726,validation
+HD252053,train
+HD253084,test
+HD253214,train
+HD253215,validation
+HD253339,train
+HD253659,train
+HD254647,train
+HD256577,train
+HD257473,test
+HD259431,train
+HD259440,train
+HD259597,train
+HD259631,train
+HD26398,train
+HD266894,train
+HD276247,train
+HD276738,test
+HD276886,train
+HD277707,validation
+HD27846,test
+HD2789,train
+HD280999,train
+HD281192,train
+HD28543,validation
+HD287823,train
+HD29035,test
+HD290409,train
+HD290500,test
+HD290662,train
+HD290770,train
+HD29096,train
+HD29373,test
+HD29557,train
+HD297625,train
+HD298339,train
+HD298377,train
+HD29866,test
+HD298697,validation
+HD300584,test
+HD30123,train
+HD302724,test
+HD302798,test
+HD302838,train
+HD302840,test
+HD302842,train
+HD303143,train
+HD303763,train
+HD305019,train
+HD305138,train
+HD305827,train
+HD305891,validation
+HD306145,train
+HD30677,train
+HD307350,train
+HD307718,test
+HD309784,validation
+HD312101,train
+HD312973,validation
+HD315377,validation
+HD31648,validation
+HD316520,train
+HD316568,validation
+HD316589,test
+HD32188,train
+HD32358,train
+HD32811,train
+HD328990,train
+HD331976,train
+HD333226,train
+HD333452,train
+HD33453,train
+HD33599,validation
+HD339483,train
+HD34257,validation
+HD344313,train
+HD344783,test
+HD344800,train
+HD344873,train
+HD345120,train
+HD345122,train
+HD345339,train
+HD350559,train
+HD35187B,train
+HD35269,test
+HD35345,train
+HD35347,train
+HD355402,train
+HD36112,train
+HD36408,validation
+HD36665,train
+HD36910,train
+HD37115,train
+HD37149,train
+HD37266,validation
+HD37330,train
+HD37352,train
+HD37357,train
+HD37541,train
+HD37806,train
+HD37971,train
+HD37974,validation
+HD38120,validation
+HD38191,train
+HD38856,train
+HD39018,train
+HD39478,test
+HD39557,test
+HD40132,test
+HD40193,train
+HD40254,train
+HD40897,train
+HD42054,train
+HD42406,train
+HD42477,validation
+HD42529,train
+HD43122,train
+HD43264,validation
+HD43285,validation
+HD43544,train
+HD43681,test
+HD43703,test
+HD43789,train
+HD43913,validation
+HD44506,validation
+HD44637,train
+HD44783,validation
+HD44996,train
+HD45260,train
+HD45314,train
+HD45626,train
+HD45995,train
+HD46131,train
+HD46484,train
+HD47054,validation
+HD47160,train
+HD47202,test
+HD47359,train
+HD4931,validation
+HD49319,train
+HD49330,train
+HD49585,train
+HD49787,train
+HD49888,train
+HD50138,train
+HD50209,validation
+HD50424,train
+HD50581,train
+HD50658,train
+HD50696,train
+HD50820,test
+HD50850,train
+HD50868,train
+HD50891,test
+HD51354,validation
+HD51404,train
+HD51452,train
+HD51506,test
+HD52159,test
+HD52721,train
+HD52812,train
+HD53032,train
+HD53048,train
+HD53085,train
+HD53416,test
+HD53667,test
+HD54086,train
+HD54167,train
+HD54858,validation
+HD55014,train
+HD55135,train
+HD55200,train
+HD55271,train
+HD55439,test
+HD55566,train
+HD55606,train
+HD56039,validation
+HD56600,train
+HD56670,train
+HD56806,test
+HD56847,validation
+HD57386,train
+HD57393,train
+HD57551,validation
+HD57682,test
+HD57775,train
+HD57910,train
+HD58127,validation
+HD59197,train
+HD59281,train
+HD59498,train
+HD60220,validation
+HD60260,train
+HD60307,test
+HD60606,validation
+HD60669,train
+HD60794,train
+HD60848,train
+HD61025,train
+HD61205,train
+HD61224,test
+HD61355,train
+HD62367,train
+HD62532,train
+HD62533,validation
+HD62729,train
+HD628,train
+HD62894,train
+HD62959,train
+HD63150,train
+HD63423,train
+HD6343,train
+HD63453,validation
+HD63988,train
+HD64109,train
+HD64298,validation
+HD64716,train
+HD64831,train
+HD65663,train
+HD65930,train
+HD67888,train
+HD67978,validation
+HD67985,validation
+HD68423,test
+HD68468,train
+HD68695,train
+HD69026,train
+HD69168,train
+HD69404,train
+HD69425,train
+HD69651,train
+HD70064,train
+HD70234,train
+HD70340,train
+HD70461,validation
+HD71072,train
+HD71510,train
+HD71823,train
+HD72014,test
+HD72043,train
+HD72063,test
+HD72067,train
+HD73903,train
+HD74867,test
+HD75081,train
+HD75485,train
+HD75551,train
+HD75658,test
+HD75661,train
+HD75740,train
+HD75925,train
+HD76534,train
+HD76568,validation
+HD76838,test
+HD76868,train
+HD76985,train
+HD77032,test
+HD77147,train
+HD7720,train
+HD78328,train
+HD78482,train
+HD79066,train
+HD79206,train
+HD79621,train
+HD79778,train
+HD80156,validation
+HD80284,test
+HD80459,train
+HD81354,validation
+HD81357,test
+HD81753,train
+HD83032,validation
+HD83043,train
+HD83060,test
+HD84361,train
+HD84511,train
+HD84523,test
+HD84567,train
+HD84777,train
+HD85083,train
+HD85495,train
+HD85860,train
+HD86119,validation
+HD86272,validation
+HD87203,train
+HD87366,train
+HD87543,validation
+HD87565,train
+HD87801,train
+HD87818,train
+HD88825,test
+HD89884,train
+HD90187,train
+HD90436,train
+HD90490,train
+HD90551,train
+HD90563,test
+HD90599,test
+HD90834,train
+HD91120,validation
+HD91180,train
+HD91273,validation
+HD91307,train
+HD92027,test
+HD92061,train
+HD92066,train
+HD92420,train
+HD93190,train
+HD93383,train
+HD93442,train
+HD93563,train
+HD93683,train
+HD93843,train
+HD94963,train
+HD95612,train
+HD95826,train
+HD95972,train
+HD9612,validation
+HD96357,validation
+HD96685,train
+HD96728,train
+HD96864,train
+HD97032,train
+HD9709,train
+HD97253,validation
+HD97535,train
+HD97580,train
+HD97792,train
+HD98001,train
+HD98876,train
+HD98922,validation
+HD99146,train
+HD99467,test
+HD99771,train
+HI CMA,test
+HILT 1042,train
+HIP2382,train
+HL LIB,validation
+HP CMA,test
+HRCAR,train
+HV LUP,train
+HZ CMA,train
+I HYA,test
+IOT ARA,train
+IOT LYR,train
+IP PER,train
+IU AUR,train
+IU VEL,train
+IY CMA,train
+J CEN,train
+J VEL,test
+KAP AQL,train
+KAP CMA,train
+KAP DRA,train
+KAP LUP,train
+KAP01 APS,validation
+KP MUS,train
+KS CMA,test
+KT CYG,train
+KU CMA,train
+KX AND,validation
+KY AND,train
+KZ CMA,train
+L PUP,train
+LAM CRU,validation
+LAM CYG,train
+LAM ERI,validation
+LAM PAV,validation
+LIN 267,train
+LL CMA,train
+LP CMA,validation
+LQ AND,train
+LQ CMA,train
+LS III +49 11,validation
+LS III +53 23,train
+LS MUS,train
+LV MUS,train
+LX VEL,train
+LY CMA,train
+LZ DEL,validation
+MHA92 4,train
+MQ TRA,train
+MU CEN,train
+MU LUP,train
+MU PIC,train
+MU02 CRU,train
+MWC1055,train
+MWC1080,train
+MWC137,train
+MZ AUR,train
+NGC7654 778,train
+NGC7654 930,train
+NGC884 2079,train
+NN CMA,train
+NO CMA,train
+NR VEL,train
+NS VEL,validation
+NT PEG,train
+NU CYG,train
+NU GEM,train
+NV PUP,train
+NW PUP,test
+NW SER,train
+OGLE LMC ECL 33312,train
+OME CAR,test
+OME CMA,train
+OME ORI,train
+OMI AND,test
+OMI AQR,validation
+OMI CAS,train
+OMI HER,train
+OMI PUP,train
+OR VEL,train
+OT GEM,train
+OY GEM,train
+OY HYA,train
+OZ NOR,train
+P CAR,train
+P. CL* NGC 2004 MHFBE 132079,train
+P. CL* NGC 2004 MHFBE 132205,validation
+P. CL* NGC 2004 MHFBE 136844,train
+P. CL* NGC 2004 MHFBE 137325,train
+P. CL* NGC 2004 MHFBE 138610,train
+P. CL* NGC 2004 MHFBE 140012,validation
+PHI AND,train
+PHI LEO,test
+PHI PER,test
+PI AQR,train
+PLEIONE,train
+PSI PER,test
+PY GEM,test
+QQ GEM,train
+QQ VEL,train
+QR VEL,test
+QR VUL,train
+QT SER,train
+QV TEL,test
+QY CAR,train
+R PUP,test
+RW TAU,train
+RX J0048.5 7302,train
+RY GEM,validation
+RY SCT,validation
+SAO77503,validation
+SK 197,train
+SMC 25,train
+STHA 145,train
+SV CEP,validation
+SV* HV2605,test
+SX AUR,test
+TET ARI,train
+TET CIR,train
+TET CRB,test
+TIC 264614601,train
+TIC 277298315,train
+TIC 29992934,train
+TIC 372857745,train
+TYC02876 0187 1,train
+TYC3694 3711 1,train
+TYC3975 1585 1,test
+TYC4032 1295 1,test
+TYC4032 3078 1,test
+TYC4306 1125 1,validation
+UCAC4 092 001315,train
+UPS CYG,train
+UPS SGR,validation
+UU PSA,train
+UX ORI,train
+V1008 CEN,train
+V1010 CEN,train
+V1012 CEN,train
+V1018 CEN,train
+V1026 SCO,test
+V1040 SCO,train
+V1063 SCO,train
+V1075 SCO,train
+V1076 SCO,train
+V1077 SCO,train
+V1078 SCO,validation
+V1083 SCO,validation
+V1150 TAU,train
+V1153 TAU,train
+V1162 TAU,train
+V1163 TAU,test
+V1165 TAU,train
+V1271 ORI,train
+V1294 AQL,validation
+V1295 AQL,train
+V1307 ORI,train
+V1322CYG,train
+V1339 AQL,train
+V1362 CYG,train
+V1366 ORI,train
+V1369 ORI,train
+V1372 ORI,test
+V1374 ORI,validation
+V1390 ORI,train
+V1409 ORI,train
+V1410 ORI,train
+V1427 CYG,train
+V1437 AQL,test
+V1443 AQL,train
+V1446 AQL,train
+V1448 AQL,train
+V1466 AQL,validation
+V1546 CYG,train
+V1578 CYG,train
+V2018 CYG,train
+V2103 CYG,validation
+V2113 CYG,train
+V2119 CYG,train
+V2120 CYG,train
+V2123 CYG,train
+V2136 CYG,train
+V2139 CYG,train
+V2144 CYG,test
+V2148 CYG,train
+V2153 CYG,train
+V2155 CYG,test
+V2156 CYG,train
+V2162 CYG,train
+V2163 CYG,validation
+V2166 CYG,validation
+V2175 CYG,train
+V2188 CYG,train
+V2211 CYG,train
+V2243 OPH,validation
+V2307 OPH,train
+V2315 OPH,train
+V2382 OPH,train
+V2385 OPH,train
+V337 VEL,train
+V338 CAR,train
+V339 PUP,test
+V341 SGE,train
+V346 ORI,train
+V3508 SGR,train
+V351 ORI,train
+V353 CAR,train
+V353 PER,validation
+V355 PER,train
+V356 PER,train
+V357 LAC,train
+V361 CEP,train
+V361 PER,train
+V364 NOR,validation
+V370 PUP,train
+V372 SGE,train
+V373 CAR,train
+V373 PUP,validation
+V374 CAR,train
+V374 CEP,train
+V376 NOR,test
+V378 AND,train
+V378 PUP,train
+V380 ORI,train
+V380 PUP,train
+V385 CEP,train
+V387 PUP,train
+V3892 SGR,train
+V3894 SGR,validation
+V3903 SGR,test
+V392 PUP,validation
+V396 VUL,validation
+V397 LAC,train
+V3984 SGR,test
+V402 CAR,validation
+V4024 SGR,train
+V404 LAC,train
+V4045 SGR,train
+V408 LAC,train
+V408 PUP,train
+V413 AUR,train
+V413 LAC,train
+V4131 SGR,train
+V414 AUR,test
+V415 AUR,train
+V416 AUR,validation
+V417 CEP,train
+V420 AUR,train
+V420 CEP,train
+V420 PUP,test
+V421 CEP,validation
+V423 LAC,train
+V424 PER,train
+V425 CYG,train
+V425 VEL,train
+V426 PUP,train
+V432 CEP,train
+V434 AUR,test
+V435 CEP,train
+V4379 SGR,validation
+V438 AUR,test
+V4383 SGR,train
+V439 CEP,train
+V4400 SGR,test
+V4409 SGR,train
+V442 AND,train
+V447 AUR,train
+V447 SCT,train
+V448 SCT,train
+V450 CEP,train
+V468 PUP,train
+V471 CAR,train
+V473 PER,train
+V480 CAR,validation
+V484 CAR,train
+V485 CAR,train
+V490 CEP,test
+V494 SCT,validation
+V495 CEN,train
+V497 CAR,validation
+V502 PER,validation
+V503 CAR,train
+V503 PER,test
+V504 PER,train
+V506 PER,train
+V507 CAR,train
+V507 PER,validation
+V510 CAR,train
+V5100SGR,train
+V518 CAR,train
+V519 PER,train
+V529 CAS,validation
+V532 LYR,train
+V548 PER,train
+V549 PER,validation
+V5563 SGR,train
+V558 LYR,test
+V568 CYG,train
+V581 PER,train
+V584 PER,train
+V586 ORI,train
+V586 PER,test
+V593 TAU,train
+V594 CAS,train
+V599 CAR,train
+V615 CAS,train
+V635 CAS,validation
+V644 CEN,train
+V644 MON,train
+V647 MON,train
+V658 CAR,train
+V695 MON,validation
+V696 MON,train
+V699 MON,test
+V715 MON,validation
+V716 CEN,train
+V718 SCO,test
+V725 MON,validation
+V728 MON,train
+V731 TAU,test
+V733 MON,train
+V737 MON,train
+V742 CAS,train
+V742 MON,test
+V746 MON,test
+V750 ARA,train
+V763 MON,train
+V764 CAS,train
+V767 CEN,train
+V771 SGR,train
+V774 CEN,test
+V777 CAS,validation
+V780 CAS,train
+V782 CAS,validation
+V783 CAS,train
+V795 CEN,train
+V801 CAS,test
+V807 CEN,train
+V808 CAS,validation
+V810 CAS,validation
+V811 CAS,train
+V813 CAS,train
+V817 CAS,train
+V817 CEN,test
+V818 CAS,test
+V828 ARA,train
+V830 ARA,validation
+V831 CAS,train
+V846 ARA,test
+V848 ARA,train
+V856 SCO,validation
+V862 ARA,train
+V862 SCO,validation
+V863 CEN,train
+V864 ARA,train
+V868 ARA,train
+V907 CEN,train
+V923 AQL,train
+V946 CEN,train
+V952 CEN,train
+V955 CEN,train
+V956 SCO,train
+V958 CEN,train
+V959 CEN,train
+V963 ORI,train
+V967 CEN,train
+V972 CAS,train
+V973 CAS,train
+V974 HER,validation
+V975 CAS,test
+V976 CAS,train
+V977 CAS,train
+V978 CAS,train
+V979 CAS,train
+V980 CAS,test
+V981 CAS,train
+V982 CAS,train
+V983 CAS,test
+V984 CAS,train
+V985 CAS,train
+V986 CAS,train
+V986 OPH,train
+V987 CEN,train
+VV PSA,train
+VV SER,validation
+VX CAS,test
+W DEL,test
+WW VUL,train
+XY PER,train
+Z HER,train
+ZET CRV,train
+ZET OPH,test
+ZET TAU,train
+[BE74] 570,train
+[KW97] 26 56,train

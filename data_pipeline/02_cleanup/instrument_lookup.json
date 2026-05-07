@@ -1,0 +1,5338 @@
+{
+  "RC12 - eshel - Atik460ex": {
+    "instrument_setup": "RC12+eShel+Atik460",
+    "telescope": "RC12",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 61693
+  },
+  "eShel_Atik460": {
+    "instrument_setup": "eShel+Atik460",
+    "telescope": null,
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 54621
+  },
+  "Elodie@OHP193": {
+    "instrument_setup": "OHP_T193+Elodie",
+    "telescope": "OHP_T193",
+    "spectrograph": "Elodie",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 30820
+  },
+  "MusicosPolar@TBL": {
+    "instrument_setup": "PicDuMidi_TBL+MUSICOS",
+    "telescope": "PicDuMidi_TBL",
+    "spectrograph": "MUSICOS",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 27602
+  },
+  "RC400 Astrosib-Eshel-ATIK460EX": {
+    "instrument_setup": "RC400+eShel+Atik460",
+    "telescope": "RC400",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 20332
+  },
+  "DeniSe": {
+    "instrument_setup": "DeniSe",
+    "telescope": null,
+    "spectrograph": "DeniSe",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 14794
+  },
+  "T500F5-AP3600EC2 Eshel#112 ATIK460EX": {
+    "instrument_setup": "T500+eShel+Atik460",
+    "telescope": "T500",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 13793
+  },
+  "PIERA Meade16 NOU_T ASI2600MM": {
+    "instrument_setup": "Meade_16inch+NOU_T+ASI2600",
+    "telescope": "Meade_16inch",
+    "spectrograph": "NOU_T",
+    "detector": "ASI2600",
+    "confidence": "high",
+    "spectra_count": 9184
+  },
+  "C11 eShel QSI532": {
+    "instrument_setup": "C11+eShel+QSI532",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 8894
+  },
+  "16 REMOT LINX 460EX": {
+    "instrument_setup": "LINX",
+    "telescope": null,
+    "spectrograph": "LINX",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 8143
+  },
+  "NEWTON250 eShel2 ASI6200": {
+    "instrument_setup": "Newton_250mm+eShel+ASI6200",
+    "telescope": "Newton_250mm",
+    "spectrograph": "eShel",
+    "detector": "ASI6200",
+    "confidence": "high",
+    "spectra_count": 7859
+  },
+  "MUSSOL": {
+    "instrument_setup": "MUSSOL",
+    "telescope": null,
+    "spectrograph": "MUSSOL",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 6304
+  },
+  "NOU_T": {
+    "instrument_setup": "NOU_T",
+    "telescope": null,
+    "spectrograph": "NOU_T",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 4972
+  },
+  "SMM MEADE16+NOU_T+ASI2600MM": {
+    "instrument_setup": "Meade_16inch+NOU_T+ASI2600",
+    "telescope": "Meade_16inch",
+    "spectrograph": "NOU_T",
+    "detector": "ASI2600",
+    "confidence": "high",
+    "spectra_count": 4958
+  },
+  "eShel101_ST1603": {
+    "instrument_setup": "eShel+SBIG_ST1603",
+    "telescope": null,
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST1603",
+    "confidence": "high",
+    "spectra_count": 4059
+  },
+  "10in-Newt_eshel-121_QHY268M": {
+    "instrument_setup": "Newton_10inch+eShel+QHY268",
+    "telescope": "Newton_10inch",
+    "spectrograph": "eShel",
+    "detector": "QHY268",
+    "confidence": "high",
+    "spectra_count": 3527
+  },
+  "RC10 eShel2 ASI1600MM": {
+    "instrument_setup": "C10+eShel+ASI1600",
+    "telescope": "C10",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 3334
+  },
+  "C14 eShel ATIK460": {
+    "instrument_setup": "C14+eShel+Atik460",
+    "telescope": "C14",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3173
+  },
+  "M12 eShel  QSI583": {
+    "instrument_setup": "M12+eShel+QSI583",
+    "telescope": "M12",
+    "spectrograph": "eShel",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 2751
+  },
+  "T500F3-AP3600EC2 Eshel#112 ATIK460EX": {
+    "instrument_setup": "T500+eShel+Atik460",
+    "telescope": "T500",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1509
+  },
+  "C11_LHiRes_2400_TRIUSSX814": {
+    "instrument_setup": "C11+LhiresIII+Trius_814",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Trius_814",
+    "confidence": "high",
+    "spectra_count": 1386
+  },
+  "eShel-TGarrel_460": {
+    "instrument_setup": "eShel",
+    "telescope": null,
+    "spectrograph": "eShel",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1368
+  },
+  "C11 VHIRES_MO ATIK460EX": {
+    "instrument_setup": "C11+VHIRES+Atik460",
+    "telescope": "C11",
+    "spectrograph": "VHIRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1242
+  },
+  "NOU16 ATIK314L+": {
+    "instrument_setup": "NOU_T+Atik314",
+    "telescope": null,
+    "spectrograph": "NOU_T",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1153
+  },
+  "RC400 Astrosib-ESP-ATIK460EX": {
+    "instrument_setup": "RC400+ESP+Atik460",
+    "telescope": "RC400",
+    "spectrograph": "ESP",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1144
+  },
+  "RC360 eShel2 ATIK460N2": {
+    "instrument_setup": "RC360+eShel+Atik460",
+    "telescope": "RC360",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1118
+  },
+  "SMM  SC16  NOU_T  ATIK460EX": {
+    "instrument_setup": "SC16+NOU_T+Atik460",
+    "telescope": "SC16",
+    "spectrograph": "NOU_T",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1000
+  },
+  "C14-Eshel-ATIK460EX": {
+    "instrument_setup": "C14+eShel+Atik460",
+    "telescope": "C14",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 981
+  },
+  "C11-LHIRESIII#194-2400t-35-QSI516s": {
+    "instrument_setup": "C11+LhiresIII+QSI516",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI516",
+    "confidence": "high",
+    "spectra_count": 972
+  },
+  "T500F6-AP3600 Eshel#112 ST10XME": {
+    "instrument_setup": "T500+eShel+SBIG_ST10",
+    "telescope": "T500",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 964
+  },
+  "NEWTON250 VHIRES_MO ASI1600MM": {
+    "instrument_setup": "Newton_250mm+VHIRES+ASI1600",
+    "telescope": "Newton_250mm",
+    "spectrograph": "VHIRES",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 936
+  },
+  "CDK17 LhiresIII ATIK460EX": {
+    "instrument_setup": "CDK17+LhiresIII+Atik460",
+    "telescope": "CDK17",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 868
+  },
+  "C14_Lhires3_#154_2400_Atik460EX": {
+    "instrument_setup": "C14+LhiresIII+Atik460",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 777
+  },
+  "RC14 + eShel + ASI2600": {
+    "instrument_setup": "C14+eShel+ASI2600",
+    "telescope": "C14",
+    "spectrograph": "eShel",
+    "detector": "ASI2600",
+    "confidence": "high",
+    "spectra_count": 750
+  },
+  "NOU 16": {
+    "instrument_setup": "NOU_T",
+    "telescope": null,
+    "spectrograph": "NOU_T",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 719
+  },
+  "C11_eshel-121_ST8ME": {
+    "instrument_setup": "C11+eShel+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 685
+  },
+  "C8 LHIRES3  ATIK314L+": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 672
+  },
+  "Feros@ESO1.52": {
+    "instrument_setup": "ESO_1.52m+FEROS",
+    "telescope": "ESO_1.52m",
+    "spectrograph": "FEROS",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 667
+  },
+  "C11 LHIRES#129 sbig ST8300": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST8300",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 666
+  },
+  "T500F5-AP3600 Eshel#112 ST10XME": {
+    "instrument_setup": "T500+eShel+SBIG_ST10",
+    "telescope": "T500",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 597
+  },
+  "31cmDK+ESSAT_2": {
+    "instrument_setup": "DK_31cm+ESSAT",
+    "telescope": "DK_31cm",
+    "spectrograph": "ESSAT",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 594
+  },
+  "T500F3-AP3600EC2_Eshel#112_ASI2600MM": {
+    "instrument_setup": "T500+eShel+ASI2600",
+    "telescope": "T500",
+    "spectrograph": "eShel",
+    "detector": "ASI2600",
+    "confidence": "high",
+    "spectra_count": 568
+  },
+  "CN212 Lhire1-1200 CCD402me": {
+    "instrument_setup": "CN212+CCD402",
+    "telescope": "CN212",
+    "spectrograph": null,
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 567
+  },
+  ".51m f10 Cass. LhiresIII-2400 Atik314L+": {
+    "instrument_setup": "T51cm+LhiresIII+Atik314",
+    "telescope": "T51cm",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 526
+  },
+  "SC14": {
+    "instrument_setup": "C14",
+    "telescope": "C14",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 526
+  },
+  "C11 VHIRES_MO ASI1600MM": {
+    "instrument_setup": "C11+VHIRES+ASI1600",
+    "telescope": "C11",
+    "spectrograph": "VHIRES",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 522
+  },
+  "C11-f2800-LhiresIII_2400-35u-Atik314L+": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 513
+  },
+  "eShel": {
+    "instrument_setup": "eShel",
+    "telescope": null,
+    "spectrograph": "eShel",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 498
+  },
+  "T250 eShel2 ASI1600MM": {
+    "instrument_setup": "T250+eShel+ASI1600",
+    "telescope": "T250",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 493
+  },
+  "LHIRES3-2400-CN212-Atik314L+": {
+    "instrument_setup": "CN212+LhiresIII+Atik314",
+    "telescope": "CN212",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 485
+  },
+  "EP3-C14-LHIRES-Grating2400-Nova402": {
+    "instrument_setup": "C14+LhiresIII+Nova402",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Nova402",
+    "confidence": "high",
+    "spectra_count": 442
+  },
+  "C14 LhiresIII_2400 Atik_460EX_bin2x2": {
+    "instrument_setup": "C14+LhiresIII+Atik460",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 441
+  },
+  "Feros@ESO2.2": {
+    "instrument_setup": "ESO_2.2m+FEROS",
+    "telescope": "ESO_2.2m",
+    "spectrograph": "FEROS",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 402
+  },
+  "IUE_SWP_HL": {
+    "instrument_setup": "IUE+IUE_SWP",
+    "telescope": "IUE",
+    "spectrograph": "IUE_SWP",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 381
+  },
+  "C9 LHIRES3_2400 ATIK460EX": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 379
+  },
+  "C14  LhiresIII-2400  Atik314L+": {
+    "instrument_setup": "C14+LhiresIII+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 361
+  },
+  "C9 eShel Atik460EX": {
+    "instrument_setup": "C9+eShel+Atik460",
+    "telescope": "C9",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 354
+  },
+  "T0.6M eShelV1 CCD1602E": {
+    "instrument_setup": "T600mm+eShel+CCD1602",
+    "telescope": "T600mm",
+    "spectrograph": "eShel",
+    "detector": "CCD1602",
+    "confidence": "high",
+    "spectra_count": 342
+  },
+  "T0.6M eShelV1 QSI512": {
+    "instrument_setup": "T600mm+eShel+QSI512",
+    "telescope": "T600mm",
+    "spectrograph": "eShel",
+    "detector": "QSI512",
+    "confidence": "high",
+    "spectra_count": 342
+  },
+  "LHIRES3#151-2400-SCT0.3m-ST8": {
+    "instrument_setup": "SCT_3cm+LhiresIII+SBIG_ST8",
+    "telescope": "SCT_3cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 332
+  },
+  "C8-f2000-LhiresIII_2400-35u-Atik314L+": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 330
+  },
+  "C11_LHIRES3#1K-154_2400 ATIK460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 325
+  },
+  "8in-Newt_eshel-121_QHY268M": {
+    "instrument_setup": "Newton_8inch+eShel+QHY268",
+    "telescope": "Newton_8inch",
+    "spectrograph": "eShel",
+    "detector": "QHY268",
+    "confidence": "high",
+    "spectra_count": 324
+  },
+  "C9 VHIRES_MO ATIK460EX": {
+    "instrument_setup": "C9+VHIRES+Atik460",
+    "telescope": "C9",
+    "spectrograph": "VHIRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 324
+  },
+  "C11 eShel2 ASI1600MM": {
+    "instrument_setup": "C11+eShel+ASI1600",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 322
+  },
+  "C11 eShel Atik460EX": {
+    "instrument_setup": "C11+eShel+Atik460",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 315
+  },
+  "lx200 12\" Lhires 2400 35u ST8Xme": {
+    "instrument_setup": "Meade_LX200+LhiresIII+SBIG_ST8",
+    "telescope": "Meade_LX200",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 307
+  },
+  "31cmDK+23um1800lpm+QSI583": {
+    "instrument_setup": "DK_31cm+QSI583",
+    "telescope": "DK_31cm",
+    "spectrograph": null,
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 303
+  },
+  "DK 350 + StarEx2400_F35mic + ASI183MM": {
+    "instrument_setup": "DK_350mm+StarEx+ASI183",
+    "telescope": "DK_350mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 294
+  },
+  "C9.25 L200_1800 ATIK314L+": {
+    "instrument_setup": "C9+Spectra_L200+Atik314",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 275
+  },
+  "LISA C11 Atik314L+ 23um slit": {
+    "instrument_setup": "C11+LISA+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 257
+  },
+  "16 REMOT ATIK +314L": {
+    "instrument_setup": "REMOT+Atik314",
+    "telescope": null,
+    "spectrograph": "REMOT",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 257
+  },
+  "LHIRES C11 35um slit 2400l/mm": {
+    "instrument_setup": "C11+LhiresIII",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 240
+  },
+  "T300F5-EQ8 Eshel#112 ATIK460EX": {
+    "instrument_setup": "T300+eShel+Atik460",
+    "telescope": "T300",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 216
+  },
+  "C11 LHIRES#129 atik304": {
+    "instrument_setup": "C11+LhiresIII+Atik304",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik304",
+    "confidence": "high",
+    "spectra_count": 205
+  },
+  "T1000 C2PU-Whoppshel-ATIK460": {
+    "instrument_setup": "T1000+eShel+Atik460",
+    "telescope": "T1000",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 202
+  },
+  "RC600-WhoppShel-ATIK 460EX": {
+    "instrument_setup": "RC600+eShel+Atik460",
+    "telescope": "RC600",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 202
+  },
+  "NEWTON 254 - LHIRES-B12t - AUDINE 403": {
+    "instrument_setup": "Newton_254mm+LhiresIII+Audine403",
+    "telescope": "Newton_254mm",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine403",
+    "confidence": "high",
+    "spectra_count": 193
+  },
+  "C14 eShel#TLE ST8XME": {
+    "instrument_setup": "C14+eShel+SBIG_ST8",
+    "telescope": "C14",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 190
+  },
+  "LHIRES III 2400tr/mm ATIK 314L+": {
+    "instrument_setup": "LhiresIII+Atik314",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 187
+  },
+  "EP3-C14-LHIRES-Grating1800-Nova402": {
+    "instrument_setup": "C14+LhiresIII+Nova402",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Nova402",
+    "confidence": "high",
+    "spectra_count": 177
+  },
+  "IUE_LWP_HL": {
+    "instrument_setup": "IUE+IUE_LWP",
+    "telescope": "IUE",
+    "spectrograph": "IUE_LWP",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 175
+  },
+  "C11_L200_1200_34mu_Atik314L+": {
+    "instrument_setup": "C11+Spectra_L200+Atik314",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 175
+  },
+  "C11_LHIRES_2400_ATK460": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 166
+  },
+  "lx200 12\" Lhires 2400 35u Atik460ex": {
+    "instrument_setup": "Meade_LX200+LhiresIII+Atik460",
+    "telescope": "Meade_LX200",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 161
+  },
+  "C11 LhiresIII#01-1200 QSI532": {
+    "instrument_setup": "C11+LhiresIII+QSI532",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 160
+  },
+  "C11 + Lhires III (23 um) + ASI533MM Pro": {
+    "instrument_setup": "C11+LhiresIII+ASI533",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 160
+  },
+  "lx200 12\" Lhires 2400  ST8Xme": {
+    "instrument_setup": "Meade_LX200+LhiresIII+SBIG_ST8",
+    "telescope": "Meade_LX200",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 154
+  },
+  "C14_eshel-121_ST8ME": {
+    "instrument_setup": "C14+eShel+SBIG_ST8",
+    "telescope": "C14",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 153
+  },
+  "C14+LhiresIII-2400+ST2000XM": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST2000",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST2000",
+    "confidence": "high",
+    "spectra_count": 152
+  },
+  "C11-LHIRESIII#194-2400t/mm-QSI516s": {
+    "instrument_setup": "C11+LhiresIII+QSI516",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI516",
+    "confidence": "high",
+    "spectra_count": 149
+  },
+  "M703@F10_StarEx2400_fente 35 m_ASI183": {
+    "instrument_setup": "M703+StarEx+ASI183",
+    "telescope": "M703",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 147
+  },
+  "EP2-C14-Slit-Grating-Nova402": {
+    "instrument_setup": "C14+Nova402",
+    "telescope": "C14",
+    "spectrograph": null,
+    "detector": "Nova402",
+    "confidence": "high",
+    "spectra_count": 143
+  },
+  "C11_LHIRES_1200_ATK314": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 139
+  },
+  "RC12-Alpy-ATIK414Ex": {
+    "instrument_setup": "RC12+Alpy600+Atik414",
+    "telescope": "RC12",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 138
+  },
+  "C11 Lhires3-1200-01 CCD402me": {
+    "instrument_setup": "C11+LhiresIII+CCD402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 137
+  },
+  "C11_L200_1200_SXVR-H814": {
+    "instrument_setup": "C11+Spectra_L200+SXVR_H814",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "SXVR_H814",
+    "confidence": "high",
+    "spectra_count": 133
+  },
+  "C11_L200_1800_TriusSX814": {
+    "instrument_setup": "C11+Spectra_L200+Trius_814",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "Trius_814",
+    "confidence": "high",
+    "spectra_count": 133
+  },
+  "T200 eShel Atik460EX": {
+    "instrument_setup": "T200+eShel+Atik460",
+    "telescope": "T200",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 132
+  },
+  "CDK17+Lhires+460EX": {
+    "instrument_setup": "CDK17+LhiresIII",
+    "telescope": "CDK17",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 129
+  },
+  "T200 VHIRES_MO ATIK460EX": {
+    "instrument_setup": "T200+VHIRES+Atik460",
+    "telescope": "T200",
+    "spectrograph": "VHIRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 126
+  },
+  "CN212 eShel Atik460EX": {
+    "instrument_setup": "CN212+eShel+Atik460",
+    "telescope": "CN212",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 126
+  },
+  "T250 Alpy600 Atik414Ex": {
+    "instrument_setup": "T250+Alpy600+Atik414",
+    "telescope": "T250",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 124
+  },
+  "C9.25 + Lhires III 1K-533 + SX Trius 694": {
+    "instrument_setup": "C9+LhiresIII+Trius_694",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Trius_694",
+    "confidence": "high",
+    "spectra_count": 124
+  },
+  "C5 127F10 Starex 2400t 23mic asi183mmpro": {
+    "instrument_setup": "C5+StarEx+ASI183",
+    "telescope": "C5",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 118
+  },
+  "C11_L200_1800_SXVR-H814": {
+    "instrument_setup": "C11+Spectra_L200+SXVR_H814",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "SXVR_H814",
+    "confidence": "high",
+    "spectra_count": 117
+  },
+  "SARG@TNG": {
+    "instrument_setup": "TNG_3.6m+SARG",
+    "telescope": "TNG_3.6m",
+    "spectrograph": "SARG",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 117
+  },
+  "LISA C11 ST8XME 23um slit": {
+    "instrument_setup": "C11+LISA+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 109
+  },
+  "31cmDK+ESSAT": {
+    "instrument_setup": "DK_31cm+ESSAT",
+    "telescope": "DK_31cm",
+    "spectrograph": "ESSAT",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 108
+  },
+  "M703@F10_StarEx2400_fente 19 m_ASI183": {
+    "instrument_setup": "M703+StarEx+ASI183",
+    "telescope": "M703",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 105
+  },
+  "C9 eShel QSI532": {
+    "instrument_setup": "C9+eShel+QSI532",
+    "telescope": "C9",
+    "spectrograph": "eShel",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 105
+  },
+  "FSQ106 eShel QSI532": {
+    "instrument_setup": "Takahashi_FSQ106+eShel+QSI532",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "eShel",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 105
+  },
+  "RC10 eShel2 ASI183MM": {
+    "instrument_setup": "C10+eShel+ASI183",
+    "telescope": "C10",
+    "spectrograph": "eShel",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 102
+  },
+  "C11 LHIRES3-2400_2xbin QHYIMG2Pro": {
+    "instrument_setup": "C11+LhiresIII+QHY2",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY2",
+    "confidence": "high",
+    "spectra_count": 100
+  },
+  "R128 Lhires1-1200 Audine402me": {
+    "instrument_setup": "Takahashi_R128+LhiresIII+Audine402",
+    "telescope": "Takahashi_R128",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 99
+  },
+  "LHIRES3 1200 C9 SXVR-H694": {
+    "instrument_setup": "C9+LhiresIII+SXVR_H694",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SXVR_H694",
+    "confidence": "high",
+    "spectra_count": 97
+  },
+  "C11_LHIRES_2400_ATK314": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 95
+  },
+  "C11_eshel-121_QHY22": {
+    "instrument_setup": "C11+eShel+QHY22",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 95
+  },
+  "CEDES 90 cm Dubs_echelle SBIG_ST8300": {
+    "instrument_setup": "CEDES_90cm+Dubs_echelle+SBIG_ST8300",
+    "telescope": "CEDES_90cm",
+    "spectrograph": "Dubs_echelle",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 93
+  },
+  "C9 + StarEx2400_vhd + ASI183MM": {
+    "instrument_setup": "C9+StarEx+ASI183",
+    "telescope": "C9",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 93
+  },
+  "C11 LHIRES3_2400 ATIK314L+": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 90
+  },
+  "Mewlon210_L2400-AM_23m_Atik460": {
+    "instrument_setup": "Takahashi_Mewlon210+Atik460",
+    "telescope": "Takahashi_Mewlon210",
+    "spectrograph": null,
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 87
+  },
+  "NW254 + Alpy600 + Atik314L": {
+    "instrument_setup": "Newton_254mm+Alpy600+Atik314",
+    "telescope": "Newton_254mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 84
+  },
+  "C9_LHIRESIII_1200_QSI583_2x2_F35": {
+    "instrument_setup": "C9+LhiresIII+QSI583",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 82
+  },
+  "JR C14 LhiresIII#26-2400 ST10": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST10",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 81
+  },
+  "JR C14 LhiresIII#26-2400 ST7": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST7",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 80
+  },
+  "Askar107 + StarEx2400_vhd + ASI183MM": {
+    "instrument_setup": "Askar_107+StarEx+ASI183",
+    "telescope": "Askar_107",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 79
+  },
+  "C11 LHIRES3-1200_2xbin QHYIMG2Pro": {
+    "instrument_setup": "C11+LhiresIII+QHY2",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY2",
+    "confidence": "high",
+    "spectra_count": 79
+  },
+  "C11 LHIRES3_2400 ATIK460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 79
+  },
+  "EP1-SC_F4-SlitlessGrating-Nova402": {
+    "instrument_setup": "Nova402",
+    "telescope": null,
+    "spectrograph": null,
+    "detector": "Nova402",
+    "confidence": "medium",
+    "spectra_count": 79
+  },
+  "100ED + StarEx2400  + ASI183MM": {
+    "instrument_setup": "ED100+StarEx+ASI183",
+    "telescope": "ED100",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 76
+  },
+  "C11 LhiresIII#76-2400 Audine402me": {
+    "instrument_setup": "C11+LhiresIII+Audine402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 76
+  },
+  "C8 LhiresIII-2400 ATIK314L": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 74
+  },
+  "EB2 TSC225 LHiReS3#30 1200gr/mm ST8XMe": {
+    "instrument_setup": "EB2+LhiresIII+SBIG_ST8",
+    "telescope": "EB2",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 74
+  },
+  "C11 Lhires3-2400-76 CCD402me": {
+    "instrument_setup": "C11+LhiresIII+CCD402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 74
+  },
+  "C11 LHIRES_2400 ATIK314L+": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 72
+  },
+  "N200F7 Starex 2400t 19mic asi183mmpro": {
+    "instrument_setup": "Newton_200mm+StarEx+ASI183",
+    "telescope": "Newton_200mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 72
+  },
+  "C8 LhiresIII-2400 QSI532": {
+    "instrument_setup": "C8+LhiresIII+QSI532",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 72
+  },
+  "C 11 LHIRES#129 SbigST8": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 70
+  },
+  "VC200L Dubs_echelle SBIG_ST8300": {
+    "instrument_setup": "Vixen_VC200L+Dubs_echelle+SBIG_ST8300",
+    "telescope": "Vixen_VC200L",
+    "spectrograph": "Dubs_echelle",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 69
+  },
+  "ED120 LHIRES3#1 R1200 Audine KF400": {
+    "instrument_setup": "ED120+LhiresIII+Audine",
+    "telescope": "ED120",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine",
+    "confidence": "high",
+    "spectra_count": 69
+  },
+  "SC25": {
+    "instrument_setup": "SC25",
+    "telescope": "SC25",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 69
+  },
+  "EdgeHD8_L200_1200_24mu_Atik314L+": {
+    "instrument_setup": "C8+Spectra_L200+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 68
+  },
+  "NOU16 460EX18": {
+    "instrument_setup": "NOU_T",
+    "telescope": null,
+    "spectrograph": "NOU_T",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 68
+  },
+  "C11 LISA ATIK314L+": {
+    "instrument_setup": "C11+LISA+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 68
+  },
+  "C11 Lhires#22+1800 Atik314L+": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 67
+  },
+  "STC 254 LHIRES#129 Sbig ST8": {
+    "instrument_setup": "LhiresIII+SBIG_ST8",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 66
+  },
+  "FSQ85 eShel QSI532": {
+    "instrument_setup": "Takahashi_FSQ85+eShel+QSI532",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "eShel",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 66
+  },
+  "M12-TITAN LHIRESIII#007 R:2400 ATIK314L": {
+    "instrument_setup": "M12+LhiresIII+Atik314",
+    "telescope": "M12",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 66
+  },
+  "Slit_spec C8 ST-8300": {
+    "instrument_setup": "C8+SlitSpec+SBIG_ST8300",
+    "telescope": "C8",
+    "spectrograph": "SlitSpec",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 62
+  },
+  "T60 Bardin R:600 Obj:500mm HISIS22": {
+    "instrument_setup": "PicDuMidi_T60+Bardin+HISIS",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Bardin",
+    "detector": "HISIS",
+    "confidence": "high",
+    "spectra_count": 62
+  },
+  "SC-C14 LHIRES III ATIK 460EX": {
+    "instrument_setup": "C14+LhiresIII+Atik460",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 61
+  },
+  "C9 VHIRES_MO ASI1600MM": {
+    "instrument_setup": "C9+VHIRES+ASI1600",
+    "telescope": "C9",
+    "spectrograph": "VHIRES",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 60
+  },
+  "Newton10 eShel2 ASI1600MM": {
+    "instrument_setup": "Newton_10inch+eShel+ASI1600",
+    "telescope": "Newton_10inch",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 58
+  },
+  "LHIRES3 C9 SXVR-H694": {
+    "instrument_setup": "C9+LhiresIII+SXVR_H694",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SXVR_H694",
+    "confidence": "high",
+    "spectra_count": 58
+  },
+  "C11 Echelle_CB1 CCD1602E": {
+    "instrument_setup": "C11+Echelle_CB+CCD1602",
+    "telescope": "C11",
+    "spectrograph": "Echelle_CB",
+    "detector": "CCD1602",
+    "confidence": "high",
+    "spectra_count": 57
+  },
+  "C11 eShelV1 Audine1602E": {
+    "instrument_setup": "C11+eShel+Audine1602",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "Audine1602",
+    "confidence": "high",
+    "spectra_count": 57
+  },
+  "LHIRES3#151-2400-SCT0.3m-AudineKAF1602E": {
+    "instrument_setup": "SCT_3cm+LhiresIII+Audine1602",
+    "telescope": "SCT_3cm",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine1602",
+    "confidence": "high",
+    "spectra_count": 57
+  },
+  "LISA VC200L ST8XME 24um slit": {
+    "instrument_setup": "Vixen_VC200L+LISA+SBIG_ST8",
+    "telescope": "Vixen_VC200L",
+    "spectrograph": "LISA",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 57
+  },
+  "T200 eShel2 ASI1600MM": {
+    "instrument_setup": "T200+eShel+ASI1600",
+    "telescope": "T200",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 56
+  },
+  "C8 LHIRES3_2400 ATIK460EX": {
+    "instrument_setup": "C8+LhiresIII+Atik460",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 55
+  },
+  "TSC 254 LHIRES#129 R:1200 Sbig ST8": {
+    "instrument_setup": "TSC_254+LhiresIII+SBIG_ST8",
+    "telescope": "TSC_254",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 55
+  },
+  "C11_Dados_1200_SXVR-H814": {
+    "instrument_setup": "C11+Dados+SXVR_H814",
+    "telescope": "C11",
+    "spectrograph": "Dados",
+    "detector": "SXVR_H814",
+    "confidence": "high",
+    "spectra_count": 55
+  },
+  "RC14 + LhiresIII + Atik314": {
+    "instrument_setup": "C14+LhiresIII+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 52
+  },
+  "SC12": {
+    "instrument_setup": "C12",
+    "telescope": "C12",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 52
+  },
+  "T0.18_L3_150_Atik314L+": {
+    "instrument_setup": "T180mm+LhiresIII+Atik314",
+    "telescope": "T180mm",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 52
+  },
+  "Alpy600 C8 ST-8300": {
+    "instrument_setup": "C8+Alpy600+SBIG_ST8300",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 51
+  },
+  "C9.25 + Lhires III 1K-533 + ATIK 314L": {
+    "instrument_setup": "C9+LhiresIII+Atik314",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 51
+  },
+  "C11 LISA  QSI583 wsg": {
+    "instrument_setup": "C11+LISA+QSI583",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 51
+  },
+  "OMC300 LHIRES3_2400 ATIK460EX": {
+    "instrument_setup": "OMC300+LhiresIII+Atik460",
+    "telescope": "OMC300",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 50
+  },
+  "eShell": {
+    "instrument_setup": "eShel",
+    "telescope": null,
+    "spectrograph": "eShel",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 50
+  },
+  "M703@F10_StarEx2400_fente 23 m_ASI585": {
+    "instrument_setup": "M703+StarEx+ASI585",
+    "telescope": "M703",
+    "spectrograph": "StarEx",
+    "detector": "ASI585",
+    "confidence": "high",
+    "spectra_count": 50
+  },
+  "Askar107PHQ + StarEx2400  + ASI533MM": {
+    "instrument_setup": "Askar_107+StarEx+ASI533",
+    "telescope": "Askar_107",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 50
+  },
+  "C11-LHIRES3-2400tr/mm-QSI583ws": {
+    "instrument_setup": "C11+LhiresIII+QSI583",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 48
+  },
+  "C9_LHIRESIII_2400_QSI583_2x2_F35": {
+    "instrument_setup": "C9+LhiresIII+QSI583",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 47
+  },
+  "MEADE355mm + LhiresIII2400 + QSI683": {
+    "instrument_setup": "Meade_355mm+LhiresIII+QSI683",
+    "telescope": "Meade_355mm",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI683",
+    "confidence": "high",
+    "spectra_count": 47
+  },
+  "SW 80ED/600 StarEx 2400 19um 533MM Pro": {
+    "instrument_setup": "SkyWatcher_80+StarEx",
+    "telescope": "SkyWatcher_80",
+    "spectrograph": "StarEx",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 46
+  },
+  "C9_LHIRESIII_1200_ATIK460": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 46
+  },
+  "Cassegrain0.4m-eShel-ATIK460EX": {
+    "instrument_setup": "Cass_40cm+eShel+Atik460",
+    "telescope": "Cass_40cm",
+    "spectrograph": "eShel",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 46
+  },
+  "C925+ALPY600+ATIK460": {
+    "instrument_setup": "C9+Alpy600+Atik460",
+    "telescope": "C9",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 45
+  },
+  "C8_StarEx_QHY183": {
+    "instrument_setup": "C8+StarEx+QHY183",
+    "telescope": "C8",
+    "spectrograph": "StarEx",
+    "detector": "QHY183",
+    "confidence": "high",
+    "spectra_count": 45
+  },
+  "SPECTRO200": {
+    "instrument_setup": "Spectro200",
+    "telescope": null,
+    "spectrograph": "Spectro200",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 45
+  },
+  "LOWRES C11 Atik314L+ 29umslit": {
+    "instrument_setup": "C11+LowSpec+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LowSpec",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 45
+  },
+  "C11 eShel ASI1600MM": {
+    "instrument_setup": "C11+eShel+ASI1600",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 44
+  },
+  "cn212 cassegrain LhiresIII Atik 460": {
+    "instrument_setup": "CN212+LhiresIII+Atik460",
+    "telescope": "CN212",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 44
+  },
+  "C8 LhiresIII 2400 Atik460": {
+    "instrument_setup": "C8+LhiresIII+Atik460",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 43
+  },
+  "C9.25 Spectra-L200 SXMX916": {
+    "instrument_setup": "C9+Spectra_L200",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 43
+  },
+  "FSQ106@F8_StarEx2400_fente 19 m_ASI183": {
+    "instrument_setup": "Takahashi_FSQ106+StarEx+ASI183",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 42
+  },
+  "C8 LHIRES3 ST7": {
+    "instrument_setup": "C8+LhiresIII+SBIG_ST7",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 42
+  },
+  "T60 eShel QSI532": {
+    "instrument_setup": "PicDuMidi_T60+eShel+QSI532",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "eShel",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 42
+  },
+  "C8_Lhires3_2400_Atik314L+": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 42
+  },
+  "C9.25 UVEX3_1800 ASI183MM": {
+    "instrument_setup": "C9+UVEX+ASI183",
+    "telescope": "C9",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 41
+  },
+  "RC200+StarEx(2400 80x80 23u)+ASI183MM": {
+    "instrument_setup": "RC200+StarEx+ASI183",
+    "telescope": "RC200",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 39
+  },
+  "M12-TITAN EShel#112 KAF3200ME": {
+    "instrument_setup": "M12+eShel+KAF3200",
+    "telescope": "M12",
+    "spectrograph": "eShel",
+    "detector": "KAF3200",
+    "confidence": "high",
+    "spectra_count": 38
+  },
+  "eShel101_ST1603_C14": {
+    "instrument_setup": "C14+eShel+SBIG_ST1603",
+    "telescope": "C14",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST1603",
+    "confidence": "high",
+    "spectra_count": 38
+  },
+  "NW254+Alpy600+ATIK428": {
+    "instrument_setup": "Newton_254mm+Alpy600+Atik428",
+    "telescope": "Newton_254mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 38
+  },
+  "C8 LhiresIII-plus0 2400 Atik460": {
+    "instrument_setup": "C8+LhiresIII+Atik460",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 37
+  },
+  "R19S2400": {
+    "instrument_setup": "Compact_R2400",
+    "telescope": null,
+    "spectrograph": "Compact_R2400",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 37
+  },
+  "T60 VHIRES_MO ATIK460EX": {
+    "instrument_setup": "PicDuMidi_T60+VHIRES+Atik460",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "VHIRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 36
+  },
+  "C11 Lhires2-2400 Audine402me": {
+    "instrument_setup": "C11+LhiresIII+Audine402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 36
+  },
+  "T500F6-AP3600 Eshel112 Order34 ST10XME": {
+    "instrument_setup": "T500+eShel+SBIG_ST10",
+    "telescope": "T500",
+    "spectrograph": "eShel",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 36
+  },
+  "LHIRES3#151-2400-SCT0.2m-ST8": {
+    "instrument_setup": "SCT_2cm+LhiresIII+SBIG_ST8",
+    "telescope": "SCT_2cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 36
+  },
+  "C11+Lhires2400+Atik460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 35
+  },
+  "FLAMES GIRAFFE L6": {
+    "instrument_setup": "ESO_VLT+FLAMES_GIRAFFE",
+    "telescope": "ESO_VLT",
+    "spectrograph": "FLAMES_GIRAFFE",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 35
+  },
+  "C8 LISA  ATIK314L+": {
+    "instrument_setup": "C8+LISA+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 34
+  },
+  "JR C9.25 LhiresIII#26-2400 ST7": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST7",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 34
+  },
+  "MAK127 UVEX3 ASI183MM": {
+    "instrument_setup": "Mak127+UVEX+ASI183",
+    "telescope": "Mak127",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 34
+  },
+  "LX90 Bareges R:1200-1800 SBIG ST402ME": {
+    "instrument_setup": "Meade_LX90+SBIG_ST402",
+    "telescope": "Meade_LX90",
+    "spectrograph": null,
+    "detector": "SBIG_ST402",
+    "confidence": "high",
+    "spectra_count": 34
+  },
+  "C8 / Lhires 2400-35um / ASI533MM": {
+    "instrument_setup": "C8+LhiresIII+ASI533",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 34
+  },
+  "FLAMES GIRAFFE L2": {
+    "instrument_setup": "ESO_VLT+FLAMES_GIRAFFE",
+    "telescope": "ESO_VLT",
+    "spectrograph": "FLAMES_GIRAFFE",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 34
+  },
+  "C8 Lhires3_1800 DSI3Pro": {
+    "instrument_setup": "C8+LhiresIII+Meade_DSI",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Meade_DSI",
+    "confidence": "high",
+    "spectra_count": 33
+  },
+  "RC10 + StarEx2400  + ASI533MM": {
+    "instrument_setup": "C10+StarEx+ASI533",
+    "telescope": "C10",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 33
+  },
+  "OMC300 LHIRES3_1800 ATIK460EX": {
+    "instrument_setup": "OMC300+LhiresIII+Atik460",
+    "telescope": "OMC300",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 33
+  },
+  "C11 LHIRES3 2400 t QSI583 wsg": {
+    "instrument_setup": "C11+LhiresIII+QSI583",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 33
+  },
+  "FC-C8:F6.3-GPDX-Alpy600#003-314L+": {
+    "instrument_setup": "C8+Alpy600",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 32
+  },
+  "DK 350 + StarEx2400 + ASI183MM": {
+    "instrument_setup": "DK_350mm+StarEx+ASI183",
+    "telescope": "DK_350mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 32
+  },
+  "30cmf4LH2400u23Atik428": {
+    "instrument_setup": "LhiresIII+Atik428",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 32
+  },
+  "C9 LISA ATIK460EX": {
+    "instrument_setup": "C9+LISA+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 31
+  },
+  "C9_LhiresCB_Atik460VHD_AP_f35microns": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 31
+  },
+  "lx200 10\" Alpy600 Atik 314L": {
+    "instrument_setup": "Meade_LX200+Alpy600+Atik314",
+    "telescope": "Meade_LX200",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 30
+  },
+  "8 inch Newton-Fiber-Grating-ILX511": {
+    "instrument_setup": "Newton_8inch+ILX511",
+    "telescope": "Newton_8inch",
+    "spectrograph": null,
+    "detector": "ILX511",
+    "confidence": "high",
+    "spectra_count": 30
+  },
+  "CN212 ALPY600 ATIK640EX": {
+    "instrument_setup": "CN212+Alpy600+Atik640",
+    "telescope": "CN212",
+    "spectrograph": "Alpy600",
+    "detector": "Atik640",
+    "confidence": "high",
+    "spectra_count": 30
+  },
+  "C11-LHIRESIII#194-2400t/mm-AudineKAF401E": {
+    "instrument_setup": "C11+LhiresIII+Audine401",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine401",
+    "confidence": "high",
+    "spectra_count": 29
+  },
+  "C8_Alpy600_Atik314L+": {
+    "instrument_setup": "C8+Alpy600+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 29
+  },
+  "LhiresIII/ 2400 - C9.25 - ST8300": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST8300",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 29
+  },
+  "Alt_Astro_10_RC+LHires2400+Atik460Ex": {
+    "instrument_setup": "LhiresIII+Atik460",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 29
+  },
+  "72ED + StarEx2400 + ASI183MM": {
+    "instrument_setup": "ED72+StarEx+ASI183",
+    "telescope": "ED72",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 28
+  },
+  "C14+LhiresIII-1800+ST2000XM": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST2000",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST2000",
+    "confidence": "high",
+    "spectra_count": 28
+  },
+  "IAC80 LhiresIII#26-2400 ST10-": {
+    "instrument_setup": "IAC80+LhiresIII+SBIG_ST10",
+    "telescope": "IAC80",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 28
+  },
+  "C11 LhiresIII#76-2400 QSI532": {
+    "instrument_setup": "C11+LhiresIII+QSI532",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 28
+  },
+  "C11_eshel-121_ZWOASI1600MMPro": {
+    "instrument_setup": "C11+eShel+ASI1600",
+    "telescope": "C11",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 28
+  },
+  "LHIRES3#202-2400-SCT0.25m-ST10XME": {
+    "instrument_setup": "SCT_25cm+LhiresIII+SBIG_ST10",
+    "telescope": "SCT_25cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "CC13 LHIRESIII ATIK460EX": {
+    "instrument_setup": "CC13+LhiresIII+Atik460",
+    "telescope": "CC13",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "M12 LhiresIII#45-2400 Audine401": {
+    "instrument_setup": "M12+LhiresIII+Audine401",
+    "telescope": "M12",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine401",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "C11 LHIRES3_2400 ATIK460EX_JJ": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "T60 Bardin R:600 Obj:500mm TH7852": {
+    "instrument_setup": "PicDuMidi_T60+Bardin+TH7852",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Bardin",
+    "detector": "TH7852",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "GSO_RC250-LHIRES3_2400-SXVR-H694": {
+    "instrument_setup": "RC250+LhiresIII+SXVR_H694",
+    "telescope": "RC250",
+    "spectrograph": "LhiresIII",
+    "detector": "SXVR_H694",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "8in-Newt_eshel-121_ZWOASI1600MMPro": {
+    "instrument_setup": "Newton_8inch+eShel+ASI1600",
+    "telescope": "Newton_8inch",
+    "spectrograph": "eShel",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 27
+  },
+  "C11-LHIRESIII#194-2400t-15-QSI516s": {
+    "instrument_setup": "C11+LhiresIII+QSI516",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI516",
+    "confidence": "high",
+    "spectra_count": 26
+  },
+  "G15S2400": {
+    "instrument_setup": "Compact_R2400",
+    "telescope": null,
+    "spectrograph": "Compact_R2400",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 26
+  },
+  "C9 LHIRES3_2400 ATIK314L": {
+    "instrument_setup": "C9+LhiresIII+Atik314",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 25
+  },
+  "FSQ106ED+EXT": {
+    "instrument_setup": "Takahashi_FSQ106",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 24
+  },
+  "C8 LHIRESIII-600 ATIK314L": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "Lhires 2400 - C9.25 - ST8300": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST8300",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "EB3 - TSC225 LHiReS3#30 2400gr ST8XMe": {
+    "instrument_setup": "EB3+LhiresIII+SBIG_ST8",
+    "telescope": "EB3",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "LISA C11 ASI183MM 23um slit": {
+    "instrument_setup": "C11+LISA+ASI183",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "C11 Lhires#22+2400 ZWOASI1600MMPro": {
+    "instrument_setup": "C11+LhiresIII+ASI1600",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "C11EDGE UVEX3 300tr/mm": {
+    "instrument_setup": "C11+UVEX",
+    "telescope": "C11",
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "T60 Lhires3-1200-01 CCD402me": {
+    "instrument_setup": "PicDuMidi_T60+LhiresIII+CCD402",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "LhiresIII",
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 24
+  },
+  "T190 Littrow5500 CCD402me": {
+    "instrument_setup": "T190+Littrow+CCD402",
+    "telescope": "T190",
+    "spectrograph": "Littrow",
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 23
+  },
+  "R128 Lhires2-2400 CCD402me": {
+    "instrument_setup": "Takahashi_R128+LhiresIII+CCD402",
+    "telescope": "Takahashi_R128",
+    "spectrograph": "LhiresIII",
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 23
+  },
+  "C11 VHIRES ATIK460EX": {
+    "instrument_setup": "C11+VHIRES+Atik460",
+    "telescope": "C11",
+    "spectrograph": "VHIRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 22
+  },
+  "Lhires31800t  ST8XME  SCT0.2": {
+    "instrument_setup": "LhiresIII+SBIG_ST8",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 22
+  },
+  "C11 LHIRES3 R:2400 SBIG ST402ME": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST402",
+    "confidence": "high",
+    "spectra_count": 22
+  },
+  "lhires3_002-2400-c11-st1603": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST1603",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST1603",
+    "confidence": "high",
+    "spectra_count": 22
+  },
+  "T0.18_L3_1200_Atik314L+": {
+    "instrument_setup": "T180mm+LhiresIII+Atik314",
+    "telescope": "T180mm",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 21
+  },
+  "AT130EDT+StarEx(2400/80x125)+ASI533MM": {
+    "instrument_setup": "ED130+StarEx+ASI533",
+    "telescope": "ED130",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 21
+  },
+  "C8 UVEX3_600 ASI183MM": {
+    "instrument_setup": "C8+UVEX+ASI183",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 21
+  },
+  "M703@F10_StarEx2400_fente 23 m_ASI183": {
+    "instrument_setup": "M703+StarEx+ASI183",
+    "telescope": "M703",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 21
+  },
+  "Newton254-1200+StarEx2400+ASI294MMpro": {
+    "instrument_setup": "Newton_254mm+StarEx+ASI294",
+    "telescope": "Newton_254mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI294",
+    "confidence": "high",
+    "spectra_count": 21
+  },
+  "C9.25 LHIRESIII 2400 ATIK314l": {
+    "instrument_setup": "C9+LhiresIII+Atik314",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "C11-f6.3+ALPY-600+Atik-314L": {
+    "instrument_setup": "C11+Alpy600+Atik314",
+    "telescope": "C11",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "FSQ106ED Alpy600 Atik414Ex": {
+    "instrument_setup": "Takahashi_FSQ106+Alpy600+Atik414",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "200F6NEWT L200 R:600 ATIK 383LPLUS": {
+    "instrument_setup": "Newton_6inch+Spectra_L200+Atik383",
+    "telescope": "Newton_6inch",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik383",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "VX10_Alpy600_Atik414": {
+    "instrument_setup": "Alpy600+Atik414",
+    "telescope": null,
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "LHIRES3#202-150-SCT0.25m-ST10XME": {
+    "instrument_setup": "SCT_25cm+LhiresIII+SBIG_ST10",
+    "telescope": "SCT_25cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "lhires3_026-2400-t62f15-st7xme": {
+    "instrument_setup": "OHP_T62+LhiresIII+SBIG_ST7",
+    "telescope": "OHP_T62",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 20
+  },
+  "LHIRES3#073-2400-SCT0.3m-AudineKAF1602E": {
+    "instrument_setup": "SCT_3cm+LhiresIII+Audine1602",
+    "telescope": "SCT_3cm",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine1602",
+    "confidence": "high",
+    "spectra_count": 19
+  },
+  "AP115-800 + StarEx2400 + ASI533MM": {
+    "instrument_setup": "AP115+StarEx+ASI533",
+    "telescope": "AP115",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 19
+  },
+  "C11 + LhiresIII (2400t/mm) + Atik 414ex": {
+    "instrument_setup": "C11+LhiresIII+Atik414",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 19
+  },
+  "C14 LISA ATIK460EX": {
+    "instrument_setup": "C14+LISA+Atik460",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "C8-Alpy600#094-Atik314": {
+    "instrument_setup": "C8+Alpy600+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "SCT14 LhiresIII_2400 Atik_460_bin2x2": {
+    "instrument_setup": "LhiresIII+Atik460",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "FSQ85 LHIRES3_600 ATIK314L+": {
+    "instrument_setup": "Takahashi_FSQ85+LhiresIII+Atik314",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "T0.25_SA_MX5": {
+    "instrument_setup": "T250mm+MX5",
+    "telescope": "T250mm",
+    "spectrograph": null,
+    "detector": "MX5",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "C8_Lhires3#1K-154_2400_ATIK460EX": {
+    "instrument_setup": "C8+LhiresIII+Atik460",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "C11_L200_echelle_SX814": {
+    "instrument_setup": "C11+Spectra_L200+SX_814",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "SX_814",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "C9.25 UVEX3_1200 ASI183MM": {
+    "instrument_setup": "C9+UVEX+ASI183",
+    "telescope": "C9",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "C11 LHIRES3_1800 ATIK460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "C9 + StarEx2400  + ASI183MM": {
+    "instrument_setup": "C9+StarEx+ASI183",
+    "telescope": "C9",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 18
+  },
+  "UVEX3 300 Atik314L C8": {
+    "instrument_setup": "C8+UVEX+Atik314",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "C8 + StarEx2400 + ASI183MM-Pro": {
+    "instrument_setup": "C8+StarEx+ASI183",
+    "telescope": "C8",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "lx200 10\" Alpy Atik 314L": {
+    "instrument_setup": "Meade_LX200+Alpy600+Atik314",
+    "telescope": "Meade_LX200",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "C11 Lhires3-150 QSI532": {
+    "instrument_setup": "C11+LhiresIII+QSI532",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "C9 LHIRES3_2400 ATIK460": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "C8 / Lhires 2400-23um / ASI533MM": {
+    "instrument_setup": "C8+LhiresIII+ASI533",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "T250 LISA ASI183MM": {
+    "instrument_setup": "T250+LISA+ASI183",
+    "telescope": "T250",
+    "spectrograph": "LISA",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "JR C14 LhiresIII#26-1200 ST7": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST7",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "Starex_ 2400_ Atik314L_ C8": {
+    "instrument_setup": "C8+StarEx+Atik314",
+    "telescope": "C8",
+    "spectrograph": "StarEx",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "RC8 - UVEX4 G300 - AS183MM": {
+    "instrument_setup": "C8+UVEX",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "T400F5.4-2000HPS LISA#2K-139 ATIK460EX": {
+    "instrument_setup": "T400+LISA+Atik460",
+    "telescope": "T400",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 17
+  },
+  "T0.25_SA_ATIK314L+": {
+    "instrument_setup": "T250mm+Atik314",
+    "telescope": "T250mm",
+    "spectrograph": null,
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "C8 LhiresIII-150 QSI532": {
+    "instrument_setup": "C8+LhiresIII+QSI532",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "CN212 Lhires0-1200 Audine402me": {
+    "instrument_setup": "CN212+LhiresIII+Audine402",
+    "telescope": "CN212",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "Mak127 + StarEx2400  + ASI294MM": {
+    "instrument_setup": "Mak127+StarEx+ASI294",
+    "telescope": "Mak127",
+    "spectrograph": "StarEx",
+    "detector": "ASI294",
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "C11 LHIRES3-2400 STT8300M": {
+    "instrument_setup": "C11+LhiresIII",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "FSQ106 ALPY600 ATIK460EX": {
+    "instrument_setup": "Takahashi_FSQ106+Alpy600+Atik460",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "C11-f2800-LhiresIII_2400-35u-Atik4000": {
+    "instrument_setup": "C11+LhiresIII+Atik4000",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik4000",
+    "confidence": "high",
+    "spectra_count": 16
+  },
+  "YG ALPY": {
+    "instrument_setup": "Alpy600",
+    "telescope": null,
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 16
+  },
+  "C9 Lisa2 QSI583": {
+    "instrument_setup": "C9+LISA+QSI583",
+    "telescope": "C9",
+    "spectrograph": "LISA",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 15
+  },
+  "G19S2400": {
+    "instrument_setup": "Compact_R2400",
+    "telescope": null,
+    "spectrograph": "Compact_R2400",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 15
+  },
+  "C925 LhiresIII_2400_G3_bin1x1": {
+    "instrument_setup": "C9+LhiresIII",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 15
+  },
+  "C11+063FR+ALPY600+Atik460EX": {
+    "instrument_setup": "C11+Alpy600+Atik460",
+    "telescope": "C11",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 15
+  },
+  "LHiRes III 2400 l/mm": {
+    "instrument_setup": "LhiresIII",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 15
+  },
+  "FSQ85 LISA ATIK314L+": {
+    "instrument_setup": "Takahashi_FSQ85+LISA+Atik314",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 15
+  },
+  "Nwt200+Alpy600+ATIK428": {
+    "instrument_setup": "Newton_200mm+Alpy600+Atik428",
+    "telescope": "Newton_200mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 15
+  },
+  "T10S300": {
+    "instrument_setup": "Compact_R300",
+    "telescope": null,
+    "spectrograph": "Compact_R300",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 14
+  },
+  "EdgeHD8_Atik314L_L200": {
+    "instrument_setup": "C8+Spectra_L200+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "RC250+UVEX4_300+ASI183MM": {
+    "instrument_setup": "RC250+UVEX+ASI183",
+    "telescope": "RC250",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "C14 LISA ATIK314L+": {
+    "instrument_setup": "C14+LISA+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "Newton12+ALPY600+ATIK460ex": {
+    "instrument_setup": "Newton_12inch+Alpy600+Atik460",
+    "telescope": "Newton_12inch",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "T60+Alpy600+ATIK428": {
+    "instrument_setup": "PicDuMidi_T60+Alpy600+Atik428",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Alpy600",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "16 REMOT": {
+    "instrument_setup": "REMOT",
+    "telescope": null,
+    "spectrograph": "REMOT",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "FS128 LhiresIII#01-1200 Audine402me": {
+    "instrument_setup": "Takahashi_FS128+LhiresIII+Audine402",
+    "telescope": "Takahashi_FS128",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "C10-N+LhiresIII_300+Canon1000D": {
+    "instrument_setup": "C10+LhiresIII+Canon1000",
+    "telescope": "C10",
+    "spectrograph": "LhiresIII",
+    "detector": "Canon1000",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "CDK20 + LHIRESIII + SBIGST2000XM": {
+    "instrument_setup": "CDK20+LhiresIII+SBIG_ST2000",
+    "telescope": "CDK20",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST2000",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "LHIRESIII  C14 QHY22": {
+    "instrument_setup": "C14+LhiresIII+QHY22",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 14
+  },
+  "C8 - f2000 - LhiresIII_2400 - Atik314L+": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 13
+  },
+  "SC25cm + LISA": {
+    "instrument_setup": "SC25+LISA",
+    "telescope": "SC25",
+    "spectrograph": "LISA",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 13
+  },
+  "RC10 UVEX2 ATIK414EX": {
+    "instrument_setup": "C10+UVEX+Atik414",
+    "telescope": "C10",
+    "spectrograph": "UVEX",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 13
+  },
+  "EB1 TSC225 LHiReS3 2400t/mm audine401E": {
+    "instrument_setup": "EB1+LhiresIII+Audine401",
+    "telescope": "EB1",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine401",
+    "confidence": "high",
+    "spectra_count": 13
+  },
+  "C14 LISA ATIK414EX": {
+    "instrument_setup": "C14+LISA+Atik414",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 13
+  },
+  "LHIRES3#202-1200-SCT0.25m-ST10XME": {
+    "instrument_setup": "SCT_25cm+LhiresIII+SBIG_ST10",
+    "telescope": "SCT_25cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "C11 LhiresIII#01-1200 Audine402me": {
+    "instrument_setup": "C11+LhiresIII+Audine402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "250F7NEWT L200 R:600 ATIK 383LPLUS": {
+    "instrument_setup": "Newton_7inch+Spectra_L200+Atik383",
+    "telescope": "Newton_7inch",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik383",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "RC10 + StarEx2400 + ASI585MM": {
+    "instrument_setup": "C10+StarEx+ASI585",
+    "telescope": "C10",
+    "spectrograph": "StarEx",
+    "detector": "ASI585",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "AP115-800 + StarEx2400  + ASI533MC": {
+    "instrument_setup": "AP115+StarEx+ASI533",
+    "telescope": "AP115",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "C9 + StarEx2400  + ASI533MM": {
+    "instrument_setup": "C9+StarEx+ASI533",
+    "telescope": "C9",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "Lowspec3_ 600_ Atik314L_ C8": {
+    "instrument_setup": "C8+LowSpec+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LowSpec",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "C11 MEDRES ATIK460EX": {
+    "instrument_setup": "C11+MEDRES+Atik460",
+    "telescope": "C11",
+    "spectrograph": "MEDRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "C11, Lhires 3_2400, ST-8XE": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 12
+  },
+  "APM107 + StarEx2400  + ASI183MM": {
+    "instrument_setup": "APM_107+StarEx+ASI183",
+    "telescope": "APM_107",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "LHIRES-2400-SCT0.2m-ST8XME": {
+    "instrument_setup": "SCT_2cm+LhiresIII+SBIG_ST8",
+    "telescope": "SCT_2cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "C11_L200_1800_29mu_Atik314L+": {
+    "instrument_setup": "C11+Spectra_L200+Atik314",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "Spectra L200, 254mm SCT, Atik 383l+": {
+    "instrument_setup": "T254mm+Spectra_L200+Atik383",
+    "telescope": "T254mm",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik383",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "N130F8 Starex 2400t 19mic asi183mmpro": {
+    "instrument_setup": "Newton_130mm+StarEx+ASI183",
+    "telescope": "Newton_130mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "C11 LHIRES_600 ATIK314L+": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "RC10 UVEX3 ASI183MM": {
+    "instrument_setup": "C10+UVEX+ASI183",
+    "telescope": "C10",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "C11 LISA ATIK640EX": {
+    "instrument_setup": "C11+LISA+Atik640",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "Atik640",
+    "confidence": "high",
+    "spectra_count": 11
+  },
+  "LX90 Bareges R:750 SBIG ST402ME": {
+    "instrument_setup": "Meade_LX90+SBIG_ST402",
+    "telescope": "Meade_LX90",
+    "spectrograph": null,
+    "detector": "SBIG_ST402",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "C8 LISA  QSI583 wsg": {
+    "instrument_setup": "C8+LISA+QSI583",
+    "telescope": "C8",
+    "spectrograph": "LISA",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "Slit_spec_ C9.25 _ST-8300M": {
+    "instrument_setup": "C9+SlitSpec+SBIG_ST8300",
+    "telescope": "C9",
+    "spectrograph": "SlitSpec",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "N350STAREX2400": {
+    "instrument_setup": "Newton_350mm+StarEx",
+    "telescope": "Newton_350mm",
+    "spectrograph": "StarEx",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "C11 LHIRES3-2400 QHYIMG2Pro": {
+    "instrument_setup": "C11+LhiresIII+QHY2",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY2",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "Lhires 600 - C9.25 - ST8300": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST8300",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "LHIRES3#2400-SCT0.2m-ZwoAsi1600Pro": {
+    "instrument_setup": "SCT_2cm+LhiresIII+ASI1600",
+    "telescope": "SCT_2cm",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "JOSIANE-1800-SCT0.25m-Atik314L": {
+    "instrument_setup": "SCT_25cm+JOSIANE+Atik314",
+    "telescope": "SCT_25cm",
+    "spectrograph": "JOSIANE",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "TS80 + StarEx2400  + ASI533MM": {
+    "instrument_setup": "TS80+StarEx+ASI533",
+    "telescope": "TS80",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "NW300+Alpy600+ATIK428": {
+    "instrument_setup": "Newton_300mm+Alpy600+Atik428",
+    "telescope": "Newton_300mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "C8 + StarEx2400 + ASI183MM": {
+    "instrument_setup": "C8+StarEx+ASI183",
+    "telescope": "C8",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "Vixen VC200L LISA SBIG ST8300": {
+    "instrument_setup": "Vixen_VC200L+LISA+SBIG_ST8300",
+    "telescope": "Vixen_VC200L",
+    "spectrograph": "LISA",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 10
+  },
+  "AP130EDFGT LHIRES3#212 R2400 ATIK314L+": {
+    "instrument_setup": "AP130+LhiresIII+Atik314",
+    "telescope": "AP130",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "C11 LHIRES3_600 ATIK314L+": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "FS128 LhiresIII#76-2400 Audine402me": {
+    "instrument_setup": "Takahashi_FS128+LhiresIII+Audine402",
+    "telescope": "Takahashi_FS128",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "C9 LHIRES3_600 ATIK460EX": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "C8f2000LhiresIII2400_19uASI183MMPro": {
+    "instrument_setup": "C8+LhiresIII+ASI183",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "C9_LhiresCB_Atik460VHD_eq6_f35microns": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "C11_L200_echelle_AtikL": {
+    "instrument_setup": "C11+Spectra_L200+AtikL",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "AtikL",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "JR C14 LhiresIII#26-1200 ST10": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST10",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "CDK17+ALPY600+460EX": {
+    "instrument_setup": "CDK17+Alpy600",
+    "telescope": "CDK17",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 9
+  },
+  "C11_L200_1800_29mu_Atik314_2bin": {
+    "instrument_setup": "C11+Spectra_L200+Atik314",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "OMC300 LHIRES3_1800 ATIK314L": {
+    "instrument_setup": "OMC300+LhiresIII+Atik314",
+    "telescope": "OMC300",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "EdgeHD8_L200_echelle_19mu_Atik314L+": {
+    "instrument_setup": "C8+Spectra_L200+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "Mak127 + StarEx2400  + ASI544MM": {
+    "instrument_setup": "Mak127+StarEx+ASI544",
+    "telescope": "Mak127",
+    "spectrograph": "StarEx",
+    "detector": "ASI544",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "C14 red063 LISA#127 Slit35 ATIK314L+": {
+    "instrument_setup": "C14+LISA+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "C8-f1260-Alpy600-Atik414EX": {
+    "instrument_setup": "C8+Alpy600+Atik414",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "T60 LISA ATIK314L+": {
+    "instrument_setup": "PicDuMidi_T60+LISA+Atik314",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "meade10_starex2400_zwoASI1600": {
+    "instrument_setup": "Meade_10inch+StarEx+ASI1600",
+    "telescope": "Meade_10inch",
+    "spectrograph": "StarEx",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "L200 R:600 obj:200mm SBIG ST8XME": {
+    "instrument_setup": "T200mm+Spectra_L200+SBIG_ST8",
+    "telescope": "T200mm",
+    "spectrograph": "Spectra_L200",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "Alt_Astro_10_RC+LHires600+Atik460Ex": {
+    "instrument_setup": "LhiresIII+Atik460",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 8
+  },
+  "C11 Lhires#22+1800 ZWOASI1600MMPro": {
+    "instrument_setup": "C11+LhiresIII+ASI1600",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "T200Newton LHIRES3#212 Slit35 ATIK414": {
+    "instrument_setup": "Newton_200mm+LhiresIII+Atik414",
+    "telescope": "Newton_200mm",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "CDK17-L200-Atik 460ex": {
+    "instrument_setup": "CDK17+Spectra_L200+Atik460",
+    "telescope": "CDK17",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "Starex_ 1200_ Atik314L_ C8": {
+    "instrument_setup": "C8+StarEx+Atik314",
+    "telescope": "C8",
+    "spectrograph": "StarEx",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "LHIRES3#202-150-SCT0.25m-ST7XME": {
+    "instrument_setup": "SCT_25cm+LhiresIII+SBIG_ST7",
+    "telescope": "SCT_25cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "AP115-800 + StarEx2400 + 585MM": {
+    "instrument_setup": "AP115+StarEx",
+    "telescope": "AP115",
+    "spectrograph": "StarEx",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "JGF1 C9.25 ST-8300": {
+    "instrument_setup": "C9+Unknown_grating+SBIG_ST8300",
+    "telescope": "C9",
+    "spectrograph": "Unknown_grating",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "L200 C11 ST8XME 34um slit": {
+    "instrument_setup": "C11+Spectra_L200+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "Newton 115x900 + StarEx2400  + ASI183MM": {
+    "instrument_setup": "Newton_115mm+StarEx+ASI183",
+    "telescope": "Newton_115mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "AP130EDFGT LISA#127 Slit 19 ATIK314L+": {
+    "instrument_setup": "AP130+LISA+Atik314",
+    "telescope": "AP130",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "cn212 cassegrain LhiresIII Atik 314": {
+    "instrument_setup": "CN212+LhiresIII+Atik314",
+    "telescope": "CN212",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "RC8 + StarEx2400 + ZWOASI533": {
+    "instrument_setup": "C8+StarEx+ASI533",
+    "telescope": "C8",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "T520": {
+    "instrument_setup": "T520",
+    "telescope": "T520",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 7
+  },
+  "YG UVEX600-CDK": {
+    "instrument_setup": "CDK+UVEX",
+    "telescope": "CDK",
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "LX200Lhires3#10SbigST8": {
+    "instrument_setup": "Meade_LX200+LhiresIII+SBIG_ST8",
+    "telescope": "Meade_LX200",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "RC14 + LhiresIII + Atik460": {
+    "instrument_setup": "C14+LhiresIII+Atik460",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 7
+  },
+  "C8 UVEX3 G300 ATIK414EX": {
+    "instrument_setup": "C8+UVEX+Atik414",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "C11  LhiresIII_1k513  ATIX 460EX": {
+    "instrument_setup": "C11+LhiresIII",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "T250 UVEX3 G600 ASI183MM": {
+    "instrument_setup": "T250+UVEX+ASI183",
+    "telescope": "T250",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "T10S600": {
+    "instrument_setup": "Compact_R600",
+    "telescope": null,
+    "spectrograph": "Compact_R600",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 6
+  },
+  "C14 LHIRES3#212 slit35 Gra2400 ATIK314L+": {
+    "instrument_setup": "C14+LhiresIII+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "C11 LHIRES 1800t atik304": {
+    "instrument_setup": "C11+LhiresIII+Atik304",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik304",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "C9.25 Spectra-L200 1800 l/mm SXMX916": {
+    "instrument_setup": "C9+Spectra_L200",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "FSQ106F8_StarEx2400_fente 23 m_ASI183": {
+    "instrument_setup": "Takahashi_FSQ106+StarEx+ASI183",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "Lunette 66 F/D6 + StarEx2400  + ASI183MM": {
+    "instrument_setup": "Lunette_66mm+StarEx+ASI183",
+    "telescope": "Lunette_66mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "RC-350  f/8  DADOS-1200 ATIK 314L+": {
+    "instrument_setup": "RC350+Dados+Atik314",
+    "telescope": "RC350",
+    "spectrograph": "Dados",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "AP130EDT + LHIRESIII  + ASI533MM": {
+    "instrument_setup": "AP130+LhiresIII+ASI533",
+    "telescope": "AP130",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "C11 LISA QSI583": {
+    "instrument_setup": "C11+LISA+QSI583",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "QSI583",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "TS80 + StarEx2400  + ASI183MM": {
+    "instrument_setup": "TS80+StarEx+ASI183",
+    "telescope": "TS80",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "RC8f1624F8Alpy600Atik414EX": {
+    "instrument_setup": "C8+Alpy600+Atik414",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "TS90@F6_ASI533-MM-PRO_STAREX2400": {
+    "instrument_setup": "TS90+StarEx+ASI533",
+    "telescope": "TS90",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "LISA C11 Atik314L+ 19um slit": {
+    "instrument_setup": "C11+LISA+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "RC200 + UVEX4 (G300) + ASI183MM": {
+    "instrument_setup": "RC200+UVEX+ASI183",
+    "telescope": "RC200",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "LHIRESIII  600gr 23micron C14 QHY22": {
+    "instrument_setup": "C14+LhiresIII+QHY22",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "CDK14 LISA Atik414ex": {
+    "instrument_setup": "CDK14+LISA+Atik414",
+    "telescope": "CDK14",
+    "spectrograph": "LISA",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "T200 UVEX ATIK460EX": {
+    "instrument_setup": "T200+UVEX+Atik460",
+    "telescope": "T200",
+    "spectrograph": "UVEX",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "T400_Alpy600_Atik314L+": {
+    "instrument_setup": "T400+Alpy600+Atik314",
+    "telescope": "T400",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 6
+  },
+  "lhires3_002-2400-t62aq-st1603": {
+    "instrument_setup": "OHP_T62+LhiresIII+SBIG_ST1603",
+    "telescope": "OHP_T62",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST1603",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C9.25 + LHIRES3_2400 + ATIK460EX": {
+    "instrument_setup": "C9+LhiresIII+Atik460",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "M250-LHIRESIII-2400-1K352": {
+    "instrument_setup": "M250+LhiresIII",
+    "telescope": "M250",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "T60F8_L3-2400_KAF16": {
+    "instrument_setup": "PicDuMidi_T60+LhiresIII+KAF16",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "LhiresIII",
+    "detector": "KAF16",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "LISA C11 ST8XME 19um slit": {
+    "instrument_setup": "C11+LISA+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Alpy600 Newton 200mm ATIK 383L+": {
+    "instrument_setup": "Newton_200mm+Alpy600+Atik383",
+    "telescope": "Newton_200mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik383",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "T1000 C2PU-LISA-ATIK414Ex": {
+    "instrument_setup": "T1000+LISA+Atik414",
+    "telescope": "T1000",
+    "spectrograph": "LISA",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C11_Lhires_2400-35u-Atik314_bin2X2": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C14  f/8.8+LhiresIII-2400+ST2000XM": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST2000",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST2000",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "TSC25cm_Alpy600_Sbig8300": {
+    "instrument_setup": "SC25+Alpy600+SBIG_ST8300",
+    "telescope": "SC25",
+    "spectrograph": "Alpy600",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "T0.2M Echelle_CB1 CCD1602E": {
+    "instrument_setup": "T200mm+Echelle_CB+CCD1602",
+    "telescope": "T200mm",
+    "spectrograph": "Echelle_CB",
+    "detector": "CCD1602",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C11 + StarEx2400-35 + Trius694": {
+    "instrument_setup": "C11+StarEx+Trius_694",
+    "telescope": "C11",
+    "spectrograph": "StarEx",
+    "detector": "Trius_694",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "RC200+L200_600+Atik314L+": {
+    "instrument_setup": "RC200+Spectra_L200+Atik314",
+    "telescope": "RC200",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Askar151PHQ+StarEx2400/80x125+ASI533MM": {
+    "instrument_setup": "Askar_151+StarEx+ASI533",
+    "telescope": "Askar_151",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Newton510mm+IMX571+LHiRes/2400": {
+    "instrument_setup": "Newton_510mm+LhiresIII",
+    "telescope": "Newton_510mm",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C11_LHiRes_2400_TRIUSSX694": {
+    "instrument_setup": "C11+LhiresIII+Trius_694",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Trius_694",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C14,Red 0.63, Fiber, Echelle,  STF 8300": {
+    "instrument_setup": "C14+Echelle+SBIG_STL8300",
+    "telescope": "C14",
+    "spectrograph": "Echelle",
+    "detector": "SBIG_STL8300",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Cassegrain 40 + 1200": {
+    "instrument_setup": "Cass_40cm+Unknown_grating",
+    "telescope": "Cass_40cm",
+    "spectrograph": "Unknown_grating",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C8f2000_2400_19uASI183MMPro_bin3x3": {
+    "instrument_setup": "C8+ASI183",
+    "telescope": "C8",
+    "spectrograph": null,
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "FC - C8 - GPDX - LhIII#0 - Atik314L+": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Mak127 + StarEx2400  + ASI183MM": {
+    "instrument_setup": "Mak127+StarEx+ASI183",
+    "telescope": "Mak127",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "RC10 + StarEx300  + ASI533MM": {
+    "instrument_setup": "C10+StarEx+ASI533",
+    "telescope": "C10",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "C10-N+LhiresIII_2400+Atik314L+": {
+    "instrument_setup": "C10+LhiresIII+Atik314",
+    "telescope": "C10",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "LHIRES3#202-150-SCT0.35m-ST7XME": {
+    "instrument_setup": "SCT_35cm+LhiresIII+SBIG_ST7",
+    "telescope": "SCT_35cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Newton115 + StarEx 2400 F23 + ASI183MM": {
+    "instrument_setup": "Newton_115mm+StarEx+ASI183",
+    "telescope": "Newton_115mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "Cassegrain 50 + 1200": {
+    "instrument_setup": "Cass_50cm+Unknown_grating",
+    "telescope": "Cass_50cm",
+    "spectrograph": "Unknown_grating",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 5
+  },
+  "N250 + Uvex300  + ASI183MM": {
+    "instrument_setup": "Newton_250mm+UVEX+ASI183",
+    "telescope": "Newton_250mm",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "T0.15_SA_MX5": {
+    "instrument_setup": "T150mm+MX5",
+    "telescope": "T150mm",
+    "spectrograph": null,
+    "detector": "MX5",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C8 + LhiresIII#165-2400 + QSI516": {
+    "instrument_setup": "C8+LhiresIII+QSI516",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI516",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "FSQ85 LISA ATIK460EX": {
+    "instrument_setup": "Takahashi_FSQ85+LISA+Atik460",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "f2000-C8-LhiresIII_2400-15u-Atik314L+": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "FSQ106 LISA ATIK314L+": {
+    "instrument_setup": "Takahashi_FSQ106+LISA+Atik314",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "T60 Alpy": {
+    "instrument_setup": "PicDuMidi_T60+Alpy600",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "CDK17+LIHRES2400/35+460EX": {
+    "instrument_setup": "CDK17+LhiresIII",
+    "telescope": "CDK17",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "N-200 DADOS-1200 ATIK 314L+": {
+    "instrument_setup": "Newton_200mm+Dados+Atik314",
+    "telescope": "Newton_200mm",
+    "spectrograph": "Dados",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "IUE_SWP_HS": {
+    "instrument_setup": "IUE+IUE_SWP",
+    "telescope": "IUE",
+    "spectrograph": "IUE_SWP",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "JOSIANE-2400-SCT0.25m-AudineKAF1600": {
+    "instrument_setup": "SCT_25cm+JOSIANE+Audine1600",
+    "telescope": "SCT_25cm",
+    "spectrograph": "JOSIANE",
+    "detector": "Audine1600",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "ED120 LHIRES3#1 R1200 Audine KF1600": {
+    "instrument_setup": "ED120+LhiresIII+Audine",
+    "telescope": "ED120",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C8+LHIRESIII_2400_23um+SXVRH9": {
+    "instrument_setup": "C8+LhiresIII+SXVR_H9",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "SXVR_H9",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "CN212 alpy atik314 gm1000": {
+    "instrument_setup": "CN212+Alpy600+Atik314",
+    "telescope": "CN212",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "Lhires 3 1200t - ST8 - SCT 0.2": {
+    "instrument_setup": "LhiresIII+SBIG_ST8",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "lhires3_002-2400-c14-st1603": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST1603",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST1603",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C9 LISA ATIK314L+": {
+    "instrument_setup": "C9+LISA+Atik314",
+    "telescope": "C9",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C11 LHIRES3 R:2400 Audine KAF401E": {
+    "instrument_setup": "C11+LhiresIII+Audine401",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine401",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C925 L200-1800 R:9550 Atik314L": {
+    "instrument_setup": "C9+Spectra_L200+Atik314",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "RC12-UVEX600-ASI183": {
+    "instrument_setup": "RC12+UVEX+ASI183",
+    "telescope": "RC12",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "130F10 Starex 2400t 23mic asi183mmpro": {
+    "instrument_setup": "T183mm+StarEx+ASI183",
+    "telescope": "T183mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "T60 Alpy600 CCD314": {
+    "instrument_setup": "PicDuMidi_T60+Alpy600+CCD314",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Alpy600",
+    "detector": "CCD314",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C11 LHIRES3-2400 ST10Xe": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST10",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C9  LHIRES3_2400 ASI183MM": {
+    "instrument_setup": "C9+LhiresIII+ASI183",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "LHIRESIII 600gr 35micron C14 QHY22": {
+    "instrument_setup": "C14+LhiresIII+QHY22",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 4
+  },
+  "C11 LISA 2K124 23um ATIK314": {
+    "instrument_setup": "C11+LISA+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "G15S300": {
+    "instrument_setup": "Compact_R300",
+    "telescope": null,
+    "spectrograph": "Compact_R300",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 3
+  },
+  "C14 Alpy600 Atik314": {
+    "instrument_setup": "C14+Alpy600+Atik314",
+    "telescope": "C14",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LHIRESIII  C14 ST9": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST9",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST9",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "T200Newton LHIRES3#212 Slit35 ATIK460": {
+    "instrument_setup": "Newton_200mm+LhiresIII+Atik460",
+    "telescope": "Newton_200mm",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C8 LISA+Fiber50microns CCD1602E": {
+    "instrument_setup": "C8+LISA+CCD1602",
+    "telescope": "C8",
+    "spectrograph": "LISA",
+    "detector": "CCD1602",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "cn212 alpy Atik 460 GM1000": {
+    "instrument_setup": "CN212+Alpy600+Atik460",
+    "telescope": "CN212",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "TSC 254 LHIRES#129 sbig ST8300": {
+    "instrument_setup": "TSC_254+LhiresIII+SBIG_ST8300",
+    "telescope": "TSC_254",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Esprit 120 + Star'Ex + Atik314": {
+    "instrument_setup": "Esprit_120+StarEx+Atik314",
+    "telescope": "Esprit_120",
+    "spectrograph": "StarEx",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "meade 10p alpy 600 atik 314 mach1": {
+    "instrument_setup": "Meade_10inch+Alpy600+Atik314",
+    "telescope": "Meade_10inch",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "SCMeade10\"Red_LISA_Atik414EX": {
+    "instrument_setup": "Meade_10inch+LISA+Atik414",
+    "telescope": "Meade_10inch",
+    "spectrograph": "LISA",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C14 LHIRES R:1200 Audine KF400": {
+    "instrument_setup": "C14+LhiresIII+Audine",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C9.25 LHIRESIII_2400 ASI183MM": {
+    "instrument_setup": "C9+LhiresIII+ASI183",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Lhires 1200 - C9.25 - ST8300": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST8300",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8300",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "FSQ106F8_StarEx2400_fente 15 m_ASI183": {
+    "instrument_setup": "Takahashi_FSQ106+StarEx+ASI183",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C8 LhiresIII-600 QSI532": {
+    "instrument_setup": "C8+LhiresIII+QSI532",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI532",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Spectro_classique_1200tr": {
+    "instrument_setup": null,
+    "telescope": null,
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "low",
+    "spectra_count": 3
+  },
+  "T60F8_L3-1200_KAF16": {
+    "instrument_setup": "PicDuMidi_T60+LhiresIII+KAF16",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "LhiresIII",
+    "detector": "KAF16",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LhiIII2400_15u_Atik314L+_C8_f2000": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Meade355mm+Atik460EX+Alpy600": {
+    "instrument_setup": "Meade_355mm+Alpy600+Atik460",
+    "telescope": "Meade_355mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Bin2X2_C8_f2000_LhiresIII_35um_Atik314": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "CN212  Alpy 600 ST7": {
+    "instrument_setup": "CN212+Alpy600+SBIG_ST7",
+    "telescope": "CN212",
+    "spectrograph": "Alpy600",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Mak127+StarEx(2400 80x80 23u)+ASI183MM": {
+    "instrument_setup": "Mak127+StarEx+ASI183",
+    "telescope": "Mak127",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "SC25cm_ LISA_ATIK460EX": {
+    "instrument_setup": "SC25+LISA+Atik460",
+    "telescope": "SC25",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "T400F5 NOVA120 LISA#112 ATIK460EX": {
+    "instrument_setup": "T400+LISA+Atik460",
+    "telescope": "T400",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "L200 C11 ST8XME 29um slit": {
+    "instrument_setup": "C11+Spectra_L200+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LU72/432 + StarEx2400  + ARES-M-PRO": {
+    "instrument_setup": "Lunette_72mm+StarEx+ARES",
+    "telescope": "Lunette_72mm",
+    "spectrograph": "StarEx",
+    "detector": "ARES",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "80ED + StarEx (2400) + ASI183MM": {
+    "instrument_setup": "ED80+StarEx+ASI183",
+    "telescope": "ED80",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "CDK17+Alpy+314L": {
+    "instrument_setup": "CDK17+Alpy314",
+    "telescope": "CDK17",
+    "spectrograph": "Alpy314",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "RC8 UVEX4 ASI585MM": {
+    "instrument_setup": "C8+UVEX+ASI585",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "ASI585",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C10-N+LhiresIII_2400+Canon1000D": {
+    "instrument_setup": "C10+LhiresIII+Canon1000",
+    "telescope": "C10",
+    "spectrograph": "LhiresIII",
+    "detector": "Canon1000",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "ACF 10\" + LowSpec 600lpmm + QHY163M": {
+    "instrument_setup": "Meade_ACF10+LowSpec+QHY163",
+    "telescope": "Meade_ACF10",
+    "spectrograph": "LowSpec",
+    "detector": "QHY163",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LHIRES3#151-2400-SCT0.2m-ST7": {
+    "instrument_setup": "SCT_2cm+LhiresIII+SBIG_ST7",
+    "telescope": "SCT_2cm",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "JR C9.25 LhiresIII#26-2400 ST10": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST10",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C9.25 L200-1200 l/mm Atik314L+": {
+    "instrument_setup": "C9+Spectra_L200+Atik314",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "SW14_Alpy600": {
+    "instrument_setup": "SkyWatcher_14+Alpy600",
+    "telescope": "SkyWatcher_14",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "JR C14 Alpy600 Atik314L": {
+    "instrument_setup": "C14+Alpy600+Atik314",
+    "telescope": "C14",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "Mak127 + StarEx (2400 80x80) + ASI183MM": {
+    "instrument_setup": "Mak127+StarEx+ASI183",
+    "telescope": "Mak127",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LX90_8inch_Alpy600_Atik314L": {
+    "instrument_setup": "Meade_LX90+Alpy600+Atik314",
+    "telescope": "Meade_LX90",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "RC-200 DADOS-1200 ATIK 314L+": {
+    "instrument_setup": "RC200+Dados+Atik314",
+    "telescope": "RC200",
+    "spectrograph": "Dados",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "T200 ALPY600 ATIK460EX": {
+    "instrument_setup": "T200+Alpy600+Atik460",
+    "telescope": "T200",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LHIRES3 C5 SXVR-H694": {
+    "instrument_setup": "C5+LhiresIII+SXVR_H694",
+    "telescope": "C5",
+    "spectrograph": "LhiresIII",
+    "detector": "SXVR_H694",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "MAK180 LHIRES3_2400 ATIK460": {
+    "instrument_setup": "Mak180+LhiresIII+Atik460",
+    "telescope": "Mak180",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "NP101 homemade Spec R:10000 SXV H9": {
+    "instrument_setup": "Homemade+SXVR_9",
+    "telescope": null,
+    "spectrograph": "Homemade",
+    "detector": "SXVR_9",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "JR C9.25 LhiresIII#26-1200 ST7": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST7",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C8+LHIRESIII_2400_35um+SXVRH9": {
+    "instrument_setup": "C8+LhiresIII+SXVR_H9",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "SXVR_H9",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "N200F8 Starex 2400t 23mic asi183mmpro": {
+    "instrument_setup": "Newton_200mm+StarEx+ASI183",
+    "telescope": "Newton_200mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "FSQ85ED + StarEx2400  + ASI533MM": {
+    "instrument_setup": "Takahashi_FSQ85+StarEx+ASI533",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "EdgeHD8_L200_echelle_34mu_Atik314L+": {
+    "instrument_setup": "C8+Spectra_L200+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LHIRES3-2400-45-CN212-Atik314L+": {
+    "instrument_setup": "CN212+LhiresIII+Atik314",
+    "telescope": "CN212",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "LISA 2K124 ATIK314L+ C14": {
+    "instrument_setup": "C14+LISA+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 3
+  },
+  "C8N, DIY 1200 SQ65, ATIK 314L+": {
+    "instrument_setup": "C8+Homemade+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Homemade",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "RC12-Alpy600-ATIK414ex": {
+    "instrument_setup": "RC12+Alpy600+Atik414",
+    "telescope": "RC12",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "8in-Newt_Lowspec300_ATIK314L+": {
+    "instrument_setup": "Newton_8inch+LowSpec+Atik314",
+    "telescope": "Newton_8inch",
+    "spectrograph": "LowSpec",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "Lowspec3_ 300_ Atik314L_ C8": {
+    "instrument_setup": "C8+LowSpec+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LowSpec",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C8+LhiresIII_300+Canon1000D": {
+    "instrument_setup": "C8+LhiresIII+Canon1000",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Canon1000",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "JR SN8 Alpy600 Atik314L": {
+    "instrument_setup": "Alpy600+Atik314",
+    "telescope": null,
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "T200 Alpy ATIK414EX": {
+    "instrument_setup": "T200+Alpy600+Atik414",
+    "telescope": "T200",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "T60 Lhires3-2400-76 CCD402me": {
+    "instrument_setup": "PicDuMidi_T60+LhiresIII+CCD402",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "LhiresIII",
+    "detector": "CCD402",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "FSQ85 LHIRES3_2400 ATIK460EX": {
+    "instrument_setup": "Takahashi_FSQ85+LhiresIII+Atik460",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C14 - UVEX4 - G600 - 25m  - ASI183MM": {
+    "instrument_setup": "C14+UVEX+ASI183",
+    "telescope": "C14",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "LX200 10inch L200_1800 Atik383L+": {
+    "instrument_setup": "Meade_LX200+Atik383",
+    "telescope": "Meade_LX200",
+    "spectrograph": null,
+    "detector": "Atik383",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "UVEX C11 ASI183MM 1200l/mm 35um": {
+    "instrument_setup": "C11+UVEX+ASI183",
+    "telescope": "C11",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "M12-TITAN LHIRESIII#007 R:2400 ST10XME": {
+    "instrument_setup": "M12+LhiresIII+SBIG_ST10",
+    "telescope": "M12",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "N180 + StarEx2400_F35mic + ASI183MM": {
+    "instrument_setup": "Newton_180mm+StarEx+ASI183",
+    "telescope": "Newton_180mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "T200Newton LISA#127 Slit19 ATIK460": {
+    "instrument_setup": "Newton_200mm+LISA+Atik460",
+    "telescope": "Newton_200mm",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C14 - UVEX4 - G300 - 25m - ASI183MM": {
+    "instrument_setup": "C14+UVEX+ASI183",
+    "telescope": "C14",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "CDK17_Lhires3_460EX_slit23": {
+    "instrument_setup": "CDK17+LhiresIII",
+    "telescope": "CDK17",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C14-Lhires2400trs-ST7": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST7",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "80ED/600 + StarEx2400 + ASI183MM": {
+    "instrument_setup": "ED80+StarEx+ASI183",
+    "telescope": "ED80",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11-f1764-Alpy600-Atik414EX": {
+    "instrument_setup": "C11+Alpy600+Atik414",
+    "telescope": "C11",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "LX254mm +Lhires3 No10 +ST7": {
+    "instrument_setup": "Meade_LX254+LhiresIII+SBIG_ST7",
+    "telescope": "Meade_LX254",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "T400f5": {
+    "instrument_setup": "T400",
+    "telescope": "T400",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 2
+  },
+  "T60 Alpy 600 slit 50um CCD314L+": {
+    "instrument_setup": "PicDuMidi_T60+Alpy600+CCD314",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Alpy600",
+    "detector": "CCD314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "JOSIANE-1800-SCT0.25-Atik314L": {
+    "instrument_setup": "JOSIANE+Atik314",
+    "telescope": null,
+    "spectrograph": "JOSIANE",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "T150 + StarEx2400 + ASI183MM": {
+    "instrument_setup": "T150+StarEx+ASI183",
+    "telescope": "T150",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "RC500 + UVEX 4 + ASI 183": {
+    "instrument_setup": "RC500+UVEX+ASI183",
+    "telescope": "RC500",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "Newton 200 Alpy 600 CCD314L+": {
+    "instrument_setup": "Newton_200mm+Alpy600+CCD314",
+    "telescope": "Newton_200mm",
+    "spectrograph": "Alpy600",
+    "detector": "CCD314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "FSQ106 LHIRES3_2400 ATIK460EX": {
+    "instrument_setup": "Takahashi_FSQ106+LhiresIII+Atik460",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "MEADE ACF 355mm F/D 10": {
+    "instrument_setup": "Meade_ACF355",
+    "telescope": "Meade_ACF355",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 2
+  },
+  "G14S2400": {
+    "instrument_setup": "Compact_R2400",
+    "telescope": null,
+    "spectrograph": "Compact_R2400",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 2
+  },
+  "MTO 100F7.5 Starex 2400t 10mic asi183mm": {
+    "instrument_setup": "MTO_100+StarEx+ASI183",
+    "telescope": "MTO_100",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11_f5_ALPY600_ATK428": {
+    "instrument_setup": "C11+Alpy600+Atik428",
+    "telescope": "C11",
+    "spectrograph": "Alpy600",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11_f5_ALPY200_ATK428": {
+    "instrument_setup": "C11+Alpy200+Atik428",
+    "telescope": "C11",
+    "spectrograph": "Alpy200",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "LHIRES III ST402 2400 gt/mm C11 G11": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST402",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST402",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11_Lhires3_2400_Atik414EX": {
+    "instrument_setup": "C11+LhiresIII+Atik414",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "Newton254-1200 + StarEx2400  + ASI294MM": {
+    "instrument_setup": "Newton_254mm+StarEx+ASI294",
+    "telescope": "Newton_254mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI294",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "FSQ85ED + StarEx300  + ASI533MM": {
+    "instrument_setup": "Takahashi_FSQ85+StarEx+ASI533",
+    "telescope": "Takahashi_FSQ85",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C925 L200 Atik314L": {
+    "instrument_setup": "C9+Spectra_L200+Atik314",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11 L200-1200 l/mm Atik314L+": {
+    "instrument_setup": "C11+Spectra_L200+Atik314",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "30cmf4LH2400u35Atik428": {
+    "instrument_setup": "LhiresIII+Atik428",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": "Atik428",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "N115_f7.5_atik420": {
+    "instrument_setup": "Newton_115mm+Atik420",
+    "telescope": "Newton_115mm",
+    "spectrograph": null,
+    "detector": "Atik420",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C8-SGS-ST10": {
+    "instrument_setup": "C8+SGS+SBIG_ST10",
+    "telescope": "C8",
+    "spectrograph": "SGS",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "Esprit 120 + Star'Ex + ASI178M": {
+    "instrument_setup": "Esprit_120+StarEx+ASI178",
+    "telescope": "Esprit_120",
+    "spectrograph": "StarEx",
+    "detector": "ASI178",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C10-N+LhiresIII_300+Atik314L+": {
+    "instrument_setup": "C10+LhiresIII+Atik314",
+    "telescope": "C10",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C10S2400": {
+    "instrument_setup": "C10+Compact_R2400",
+    "telescope": "C10",
+    "spectrograph": "Compact_R2400",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "VC200_LISA_ASI183": {
+    "instrument_setup": "Vixen_VC200L+LISA+ASI183",
+    "telescope": "Vixen_VC200L",
+    "spectrograph": "LISA",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "80ED_StarEx2400_fente23m_ASI183MM": {
+    "instrument_setup": "ED80+StarEx+ASI183",
+    "telescope": "ED80",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11 LHIRESIII 2400 ATIK314l": {
+    "instrument_setup": "C11+LhiresIII+Atik314",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "R200SS-ATIK460EX-STAREX2400": {
+    "instrument_setup": "Vixen_R200SS+StarEx+Atik460",
+    "telescope": "Vixen_R200SS",
+    "spectrograph": "StarEx",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "DK350 + StarEx300_F19mic + ASI533MM": {
+    "instrument_setup": "DK_350mm+StarEx+ASI533",
+    "telescope": "DK_350mm",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "RC8 + UVEX4 G300  + ASI183MM": {
+    "instrument_setup": "C8+UVEX+ASI183",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C8 UVEX3 G1200 ATIK414EX": {
+    "instrument_setup": "C8+UVEX+Atik414",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "C11+Lhires600+Atik460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 2
+  },
+  "LX200 GPS 12\" +  UVEX(3)": {
+    "instrument_setup": "Meade_LX200+UVEX",
+    "telescope": "Meade_LX200",
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Spectroscopy Setup #1": {
+    "instrument_setup": null,
+    "telescope": null,
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "low",
+    "spectra_count": 1
+  },
+  "C11 ALPY600 ATIK460EX": {
+    "instrument_setup": "C11+Alpy600+Atik460",
+    "telescope": "C11",
+    "spectrograph": "Alpy600",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14-lhires2400trs-st7": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST7",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "SW400/FD5 + Dados200 + 25mic + ATIK420M": {
+    "instrument_setup": "SkyWatcher_400+Dados+Atik420",
+    "telescope": "SkyWatcher_400",
+    "spectrograph": "Dados",
+    "detector": "Atik420",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14-Lhires2400trs-St7": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST7",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC600 Officina Stellare-LISA-ATIK 414EX": {
+    "instrument_setup": "RC600+LISA+Atik414",
+    "telescope": "RC600",
+    "spectrograph": "LISA",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "LX200-8(F/5)+Alpy600+SXV-M7": {
+    "instrument_setup": "Meade_LX200+Alpy600+SXVR_7",
+    "telescope": "Meade_LX200",
+    "spectrograph": "Alpy600",
+    "detector": "SXVR_7",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Newton-200 DADOS-1200 ATIK 314L+": {
+    "instrument_setup": "Newton_200mm+Dados+Atik314",
+    "telescope": "Newton_200mm",
+    "spectrograph": "Dados",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC8 - UVEX4 G600-500_S10 - AS183MM": {
+    "instrument_setup": "C8+UVEX",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Alpy600-Atik414EX-lun102/714": {
+    "instrument_setup": "Alpy600+Atik414",
+    "telescope": null,
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T400 LHIRES_2400 ATIK314L": {
+    "instrument_setup": "T400+LhiresIII+Atik314",
+    "telescope": "T400",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "FRA400 + StarEx2400 + ASI183MM": {
+    "instrument_setup": "FRA_400+StarEx+ASI183",
+    "telescope": "FRA_400",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC10+Alpy+Atik+077FR": {
+    "instrument_setup": "C10+Alpy600+Atik077",
+    "telescope": "C10",
+    "spectrograph": "Alpy600",
+    "detector": "Atik077",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC360AS LHires3 ST10XE": {
+    "instrument_setup": "RC360+LhiresIII+SBIG_ST10",
+    "telescope": "RC360",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8 LhiresIII ST7": {
+    "instrument_setup": "C8+LhiresIII+SBIG_ST7",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8 UVEX3 ASI183MM": {
+    "instrument_setup": "C8+UVEX+ASI183",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14+ RED 0.63 + LISA No127": {
+    "instrument_setup": "C14+LISA",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "IUE_LWP_HS": {
+    "instrument_setup": "IUE+IUE_LWP",
+    "telescope": "IUE",
+    "spectrograph": "IUE_LWP",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C9.25 Spectra-L200 ATIK314L+": {
+    "instrument_setup": "C9+Spectra_L200+Atik314",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "EdgeHD8_L200_1200_2ndstar_Atik314L+": {
+    "instrument_setup": "C8+Spectra_L200+Atik314",
+    "telescope": "C8",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "M12-AP1200 LHIRESIII#007 R:2400 ST10XME": {
+    "instrument_setup": "M12+LhiresIII+SBIG_ST10",
+    "telescope": "M12",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14 F11 LISA#127 Slit19 ATIK314L+": {
+    "instrument_setup": "C14+LISA+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LISA",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RCO-16 UVEX 600 ASI 533": {
+    "instrument_setup": "RC16+UVEX+ASI533",
+    "telescope": "RC16",
+    "spectrograph": "UVEX",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "N250_Alpy600": {
+    "instrument_setup": "Newton_250mm+Alpy600",
+    "telescope": "Newton_250mm",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11 + LHIRES + 1200 t/mm +ST-10XME": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST10",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Mak127 + SolEx (2400 80x80) + ASI183MM": {
+    "instrument_setup": "Mak127+SolEx+ASI183",
+    "telescope": "Mak127",
+    "spectrograph": "SolEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C9.25 Spectra-L200 MX916": {
+    "instrument_setup": "C9+Spectra_L200+MX916",
+    "telescope": "C9",
+    "spectrograph": "Spectra_L200",
+    "detector": "MX916",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11 LIHRES3_2400 ATIK460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "SW 80ED/600 StarEx 2400 10 um ASI290MM": {
+    "instrument_setup": "SkyWatcher_80+StarEx+ASI290",
+    "telescope": "SkyWatcher_80",
+    "spectrograph": "StarEx",
+    "detector": "ASI290",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14_Lhires lll 2400_Atik460EX_bin2X2": {
+    "instrument_setup": "C14+LhiresIII+Atik460",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "KS1_LX200GPS12Lhires3_125_2400ST402ME": {
+    "instrument_setup": "Meade_LX200+LhiresIII+SBIG_ST402",
+    "telescope": "Meade_LX200",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST402",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T60 Alpy 600 CCD314L+": {
+    "instrument_setup": "PicDuMidi_T60+Alpy600+CCD314",
+    "telescope": "PicDuMidi_T60",
+    "spectrograph": "Alpy600",
+    "detector": "CCD314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T0.18_L3_300_Atik314L+": {
+    "instrument_setup": "T180mm+LhiresIII+Atik314",
+    "telescope": "T180mm",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "VC200L LHIRES3#212 R2400 ATIK314L+": {
+    "instrument_setup": "Vixen_VC200L+LhiresIII+Atik314",
+    "telescope": "Vixen_VC200L",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "TS72-F6 + StarEx (2400) + 10u + ASI558MM": {
+    "instrument_setup": "TS72+StarEx+ASI558",
+    "telescope": "TS72",
+    "spectrograph": "StarEx",
+    "detector": "ASI558",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8_reducteur_Alpy600_314L+": {
+    "instrument_setup": "C8+Alpy600",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14": {
+    "instrument_setup": "C14",
+    "telescope": "C14",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "C11_LHIRES_1200_ATK460": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "810/90 Uvex3N5 300tr/mm  25 microns": {
+    "instrument_setup": "UVEX",
+    "telescope": null,
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "M603+red/Alpy600/Atik314L": {
+    "instrument_setup": "M603+Alpy600+Atik314",
+    "telescope": "M603",
+    "spectrograph": "Alpy600",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "SW200/1000 + StarEx300 + ASI183MMPro": {
+    "instrument_setup": "SkyWatcher_200+StarEx+ASI183",
+    "telescope": "SkyWatcher_200",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11+Lhires2400+QSI683ws": {
+    "instrument_setup": "C11+LhiresIII+QSI683",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "QSI683",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "MEWLON180_L2400_1K518_23M_ATIK460": {
+    "instrument_setup": "Takahashi_Mewlon180+Atik460",
+    "telescope": "Takahashi_Mewlon180",
+    "spectrograph": null,
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T200Newton LISA#127 Slit 23 ATIK460": {
+    "instrument_setup": "Newton_200mm+LISA+Atik460",
+    "telescope": "Newton_200mm",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8 LhiresIII Atik 314 AP900": {
+    "instrument_setup": "C8+LhiresIII+Atik314",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC12-UVEX600-ASI533": {
+    "instrument_setup": "RC12+UVEX+ASI533",
+    "telescope": "RC12",
+    "spectrograph": "UVEX",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "JR C9.25 LhiresIII#26-1200 ST10": {
+    "instrument_setup": "C9+LhiresIII+SBIG_ST10",
+    "telescope": "C9",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "LHIRESIII 600g 23micron C14 QHY22": {
+    "instrument_setup": "C14+LhiresIII+QHY22",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T254 LHIRESIII_2400 ATIK314L+": {
+    "instrument_setup": "T254+LhiresIII+Atik314",
+    "telescope": "T254",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "LowSpec1800": {
+    "instrument_setup": "LowSpec",
+    "telescope": null,
+    "spectrograph": "LowSpec",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "M703 + Alpy600  + Atik414": {
+    "instrument_setup": "M703+Alpy600+Atik414",
+    "telescope": "M703",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "R128 Lhires3-1200 Audine402me": {
+    "instrument_setup": "Takahashi_R128+LhiresIII+Audine402",
+    "telescope": "Takahashi_R128",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine402",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14F63 SARDHIRES2 QSI683": {
+    "instrument_setup": "C14+SARDHIRES+QSI683",
+    "telescope": "C14",
+    "spectrograph": "SARDHIRES",
+    "detector": "QSI683",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T600+Barlow+LhiresIII_300+STL6303E": {
+    "instrument_setup": "T600+LhiresIII+SBIG_STL6303",
+    "telescope": "T600",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_STL6303",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8 / Lhires 2400 SJ": {
+    "instrument_setup": "C8+LhiresIII",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "FSQ106ED + StarEx2400  + ASI533MM": {
+    "instrument_setup": "Takahashi_FSQ106+StarEx+ASI533",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "StarEx",
+    "detector": "ASI533",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "m250l200": {
+    "instrument_setup": "M250+Spectra_L200",
+    "telescope": "M250",
+    "spectrograph": "Spectra_L200",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "SC_203_F10 LOWSP_300L ZWO_ASI1600MM": {
+    "instrument_setup": "T600mm+LowSpec+ASI1600",
+    "telescope": "T600mm",
+    "spectrograph": "LowSpec",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Alpy 600": {
+    "instrument_setup": "Alpy600",
+    "telescope": null,
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "RC12-UVEX#1-ASI183": {
+    "instrument_setup": "RC12+UVEX+ASI183",
+    "telescope": "RC12",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "SC8 UVEX4 G1200 ASI183MM": {
+    "instrument_setup": "C8+UVEX+ASI183",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "SC25cm LISA CCD Starlight SXV-H9": {
+    "instrument_setup": "SC25+LISA+SXVR_9",
+    "telescope": "SC25",
+    "spectrograph": "LISA",
+    "detector": "SXVR_9",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8-LhiresIII-Kaf400": {
+    "instrument_setup": "C8+LhiresIII+KAF400",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "KAF400",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "JPM1-INTES-LH3#24-2400-AudineKAF0401e": {
+    "instrument_setup": "Intes+LhiresIII+Audine0401",
+    "telescope": "Intes",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine0401",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "YG UVEX600-Tak": {
+    "instrument_setup": "UVEX",
+    "telescope": null,
+    "spectrograph": "UVEX",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "T62AQ2-F9-Lh3-1200": {
+    "instrument_setup": "OHP_T62+LhiresIII",
+    "telescope": "OHP_T62",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC8": {
+    "instrument_setup": "C8",
+    "telescope": "C8",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "RC8 UVEX3 G300 ASI183MM": {
+    "instrument_setup": "C8+UVEX+ASI183",
+    "telescope": "C8",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "0.4mRCX400+L200-1800+ST8": {
+    "instrument_setup": "RC400+Spectra_L200+SBIG_ST8",
+    "telescope": "RC400",
+    "spectrograph": "Spectra_L200",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "V10S2400": {
+    "instrument_setup": "Compact_R2400",
+    "telescope": null,
+    "spectrograph": "Compact_R2400",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "LHIRESIII  C14 QHY-22 600gr 35-micron": {
+    "instrument_setup": "C14+LhiresIII+QHY22",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11F6 slit35um Alpy CCD414bin 2": {
+    "instrument_setup": "C11+Alpy600+CCD414",
+    "telescope": "C11",
+    "spectrograph": "Alpy600",
+    "detector": "CCD414",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Newton150F5 + Alpy600  + Atik 420": {
+    "instrument_setup": "Newton_150mm+Alpy600+Atik420",
+    "telescope": "Newton_150mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik420",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Newton": {
+    "instrument_setup": null,
+    "telescope": null,
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "low",
+    "spectra_count": 1
+  },
+  "MAK127 UVEX3_1200 ASI183MM": {
+    "instrument_setup": "Mak127+UVEX+ASI183",
+    "telescope": "Mak127",
+    "spectrograph": "UVEX",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8-SGS150-ST10": {
+    "instrument_setup": "C8+SGS+SBIG_ST10",
+    "telescope": "C8",
+    "spectrograph": "SGS",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "T62AQ1-F15-Lh3-1200": {
+    "instrument_setup": "OHP_T62+LhiresIII",
+    "telescope": "OHP_T62",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "M14-AP1200 LHIRESIII#007 R:2400 ST-10XME": {
+    "instrument_setup": "M14+LhiresIII+SBIG_ST10",
+    "telescope": "M14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST10",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14L200Pilot": {
+    "instrument_setup": "C14+Spectra_L200",
+    "telescope": "C14",
+    "spectrograph": "Spectra_L200",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11 LHIRES3 ATIK460EX": {
+    "instrument_setup": "C11+LhiresIII+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC200+L200_300+ASI1600MM-C": {
+    "instrument_setup": "RC200+Spectra_L200+ASI1600",
+    "telescope": "RC200",
+    "spectrograph": "Spectra_L200",
+    "detector": "ASI1600",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "ED120 L200 CCD MX916": {
+    "instrument_setup": "ED120+Spectra_L200+MX916",
+    "telescope": "ED120",
+    "spectrograph": "Spectra_L200",
+    "detector": "MX916",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11 LHIRES_2400 ST8-XME": {
+    "instrument_setup": "C11+LhiresIII+SBIG_ST8",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST8",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11 LhiresIII#45-2400 Audine401": {
+    "instrument_setup": "C11+LhiresIII+Audine401",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine401",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "Lhires": {
+    "instrument_setup": "LhiresIII",
+    "telescope": null,
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "N200 F/5 ALPY600 ATIK414EX": {
+    "instrument_setup": "Newton_200mm+Alpy600+Atik414",
+    "telescope": "Newton_200mm",
+    "spectrograph": "Alpy600",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "LHIRES C11 23um slit 2400l/mm": {
+    "instrument_setup": "C11+LhiresIII",
+    "telescope": "C11",
+    "spectrograph": "LhiresIII",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11 f10 Spectra-L200/1800 Atik314L": {
+    "instrument_setup": "C11+Spectra_L200+Atik314",
+    "telescope": "C11",
+    "spectrograph": "Spectra_L200",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "GEMINI TELESCOPE HR": {
+    "instrument_setup": "Gemini+Gemini_HR",
+    "telescope": "Gemini",
+    "spectrograph": "Gemini_HR",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "FSQ106 Alpy R:600 ST7": {
+    "instrument_setup": "Takahashi_FSQ106+Alpy600+SBIG_ST7",
+    "telescope": "Takahashi_FSQ106",
+    "spectrograph": "Alpy600",
+    "detector": "SBIG_ST7",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C11f7-Lisa-Atik460EX": {
+    "instrument_setup": "C11+LISA+Atik460",
+    "telescope": "C11",
+    "spectrograph": "LISA",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC 8 + SolEx (2400) + ASI294MM Bin1": {
+    "instrument_setup": "C8+SolEx+ASI294",
+    "telescope": "C8",
+    "spectrograph": "SolEx",
+    "detector": "ASI294",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "RC500 Astrosib-LISA-ATIK414EX": {
+    "instrument_setup": "RC500+LISA+Atik414",
+    "telescope": "RC500",
+    "spectrograph": "LISA",
+    "detector": "Atik414",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "N150STAREX2400": {
+    "instrument_setup": "Newton_150mm+StarEx",
+    "telescope": "Newton_150mm",
+    "spectrograph": "StarEx",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14F63 SARDHIRES ATIK460EX": {
+    "instrument_setup": "C14+SARDHIRES+Atik460",
+    "telescope": "C14",
+    "spectrograph": "SARDHIRES",
+    "detector": "Atik460",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "GEMINI TELESCOPE": {
+    "instrument_setup": "Gemini",
+    "telescope": "Gemini",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  },
+  "Newton 250": {
+    "instrument_setup": "Newton_250mm+Unknown_grating",
+    "telescope": "Newton_250mm",
+    "spectrograph": "Unknown_grating",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "LHIRESIII  600gr 35micron C14 ST9": {
+    "instrument_setup": "C14+LhiresIII+SBIG_ST9",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "SBIG_ST9",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "ED70F6 Starex 2400t 10mic asi183mmpro": {
+    "instrument_setup": "ED70+StarEx+ASI183",
+    "telescope": "ED70",
+    "spectrograph": "StarEx",
+    "detector": "ASI183",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "LHIRESIII  C14 QHY22 150gr": {
+    "instrument_setup": "C14+LhiresIII+QHY22",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "QHY22",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "KG_C8SE+0.63FR+Atik+Alpy": {
+    "instrument_setup": "C8+Alpy600",
+    "telescope": "C8",
+    "spectrograph": "Alpy600",
+    "detector": null,
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8 LHIRES3 R:2400 Audine KAF401E": {
+    "instrument_setup": "C8+LhiresIII+Audine401",
+    "telescope": "C8",
+    "spectrograph": "LhiresIII",
+    "detector": "Audine401",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C14 Lhires#22+1800 Atik314L+": {
+    "instrument_setup": "C14+LhiresIII+Atik314",
+    "telescope": "C14",
+    "spectrograph": "LhiresIII",
+    "detector": "Atik314",
+    "confidence": "high",
+    "spectra_count": 1
+  },
+  "C8Edge_L2400-TD_23m": {
+    "instrument_setup": "C8",
+    "telescope": "C8",
+    "spectrograph": null,
+    "detector": null,
+    "confidence": "medium",
+    "spectra_count": 1
+  }
+}

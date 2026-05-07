@@ -1,0 +1,447 @@
+{
+  "description": "BeSS spectra for which SNR could not be computed (DER_SNR). Median flux <= 0.",
+  "analysis_date": "2026-02-12",
+  "total": 29,
+  "causes": {
+    "flux_median_zero": 23,
+    "flux_median_negative": 6
+  },
+  "note": "These spectra have snr_estimated = NULL in the DuckDB database. They are flagged as corrupted data and must be excluded from the ML pipeline.",
+  "spectra": [
+    {
+      "id_duckdb": "4b5dfcbb4c57816de99dff9c611f7dc6",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd67888_20230213_472_60.fits",
+      "target": "PQ Pup",
+      "fits_objname": "HD67888",
+      "obs_date": "2023-02-13 11:18:58",
+      "lambda_start_A": 3698.5,
+      "lambda_stop_A": 3764.6,
+      "local_filename": "4b5dfcbb4c57816de99dff9c611f7dc6_4b5dfcbb4c57816de99dff9c611f7dc6.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 93.9,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "2454ac27b2318644dfdaffd0468d8f54",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd67888_20230218_467_60.fits",
+      "target": "PQ Pup",
+      "fits_objname": "HD67888",
+      "obs_date": "2023-02-18 11:11:57",
+      "lambda_start_A": 3698.5,
+      "lambda_stop_A": 3764.6,
+      "local_filename": "2454ac27b2318644dfdaffd0468d8f54_2454ac27b2318644dfdaffd0468d8f54.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 93.9,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "0ff8bd2d5a9575600e81ab67921b1a40",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd77320_20230213_518_60.fits",
+      "target": "IU Vel",
+      "fits_objname": "HD77320",
+      "obs_date": "2023-02-13 12:25:24",
+      "lambda_start_A": 3698.5,
+      "lambda_stop_A": 3764.6,
+      "local_filename": "0ff8bd2d5a9575600e81ab67921b1a40_0ff8bd2d5a9575600e81ab67921b1a40.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 93.9,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "9c9bccd0d1fbd82624f1904d1a7b82d7",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd68570_20230218_513_60.fits",
+      "target": "V426 Pup",
+      "fits_objname": "HD68570",
+      "obs_date": "2023-02-18 12:18:10",
+      "lambda_start_A": 3698.5,
+      "lambda_stop_A": 3764.6,
+      "local_filename": "9c9bccd0d1fbd82624f1904d1a7b82d7_9c9bccd0d1fbd82624f1904d1a7b82d7.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 93.9,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "8ba81632272b8aa381fa0a0b643941ca",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_cbuil%2Fnewton250eshel2asi6200%2F_mha92-4_20200728_916_58.fits",
+      "target": "EM* MWC 622",
+      "fits_objname": "MHA92-4",
+      "obs_date": "2020-07-28 21:59:22",
+      "lambda_start_A": 3843.5,
+      "lambda_stop_A": 3910.6,
+      "local_filename": "8ba81632272b8aa381fa0a0b643941ca_8ba81632272b8aa381fa0a0b643941ca.fits",
+      "diagnostic": {
+        "flux_median": -0.011499,
+        "pct_zeros": 0.0,
+        "cause": "flux_median_negative"
+      }
+    },
+    {
+      "id_duckdb": "1320228d24f8aa8ffbc8dc45dc9d6b30",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_pluckas%2Frc14eshelasi2600%2F_lam_eri_20241220_535_57.fits",
+      "target": "lam Eri",
+      "fits_objname": "lam_Eri",
+      "obs_date": "2024-12-20 12:49:43",
+      "lambda_start_A": 3917.1,
+      "lambda_stop_A": 4000.6,
+      "local_filename": "1320228d24f8aa8ffbc8dc45dc9d6b30_1320228d24f8aa8ffbc8dc45dc9d6b30.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 96.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "6a511af936d9fa4f17f393a0a8d398ee",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_cbuil%2Fc11eshel2asi1600mm%2F_gammacas_20171004_851_56.fits",
+      "target": "gam Cas",
+      "fits_objname": "gamma Cas",
+      "obs_date": "2017-10-04 20:25:43",
+      "lambda_start_A": 3974.5,
+      "lambda_stop_A": 4050.6,
+      "local_filename": "6a511af936d9fa4f17f393a0a8d398ee_6a511af936d9fa4f17f393a0a8d398ee.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 90.8,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "45edee7d59f22df91ec080160227b7b0",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_tgarrel%2Fesheltgarrel460%2F20200531-212516-HD174237-14x240s-P_1C_54.fits",
+      "target": "CX Dra",
+      "fits_objname": "HD 174237",
+      "obs_date": "2020-05-31 21:25:16",
+      "lambda_start_A": 4100.0,
+      "lambda_stop_A": 4187.3,
+      "local_filename": "45edee7d59f22df91ec080160227b7b0_45edee7d59f22df91ec080160227b7b0.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 100.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "80f27079c67cfc9975f8b048605367fd",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_fteyssier%2Fsc25%2F_betcmi_20150317_792_54.fits",
+      "target": "bet CMi",
+      "fits_objname": "bet cmi",
+      "obs_date": "2015-03-17 19:00:53",
+      "lambda_start_A": 4140.0,
+      "lambda_stop_A": 4215.5,
+      "local_filename": "80f27079c67cfc9975f8b048605367fd_80f27079c67cfc9975f8b048605367fd.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 93.3,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "3b771de3e8bdff9efa8852fd7ed2ea97",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_fteyssier%2Fsc25%2F_5cnc_20150312_814_54.fits",
+      "target": "5 Cnc",
+      "fits_objname": "5cnc",
+      "obs_date": "2015-03-12 19:32:51",
+      "lambda_start_A": 4144.0,
+      "lambda_stop_A": 4215.5,
+      "local_filename": "3b771de3e8bdff9efa8852fd7ed2ea97_3b771de3e8bdff9efa8852fd7ed2ea97.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 92.9,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "adb6b5ca0689ac1d247b36c4c8b3a711",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_tgarrel%2Fdenise%2F20110516-204316-cxdra-3x900s-P_1C_50.fits",
+      "target": "CX Dra",
+      "fits_objname": "cx dra",
+      "obs_date": "2011-05-16 20:43:16",
+      "lambda_start_A": 4426.1,
+      "lambda_stop_A": 4520.2,
+      "local_filename": "adb6b5ca0689ac1d247b36c4c8b3a711_adb6b5ca0689ac1d247b36c4c8b3a711.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 94.6,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "3b7670ad05c18fe6c062aeeee9d9307e",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=P_cneiner%2Felodieohp193%2FOHP_19940829_0014n39.fits",
+      "target": "IL Cep",
+      "fits_objname": "HD 216629",
+      "obs_date": "1994-08-30 02:52:24",
+      "lambda_start_A": 5145.0,
+      "lambda_stop_A": 5200.4,
+      "local_filename": "3b7670ad05c18fe6c062aeeee9d9307e_3b7670ad05c18fe6c062aeeee9d9307e.fits",
+      "diagnostic": {
+        "flux_median": -1.854812,
+        "pct_zeros": 0.0,
+        "cause": "flux_median_negative"
+      }
+    },
+    {
+      "id_duckdb": "17072a069b25af7885a2483edc3c161b",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_fteyssier%2Fsc25%2F_betcmi_20150317_792_31.fits",
+      "target": "bet CMi",
+      "fits_objname": "bet cmi",
+      "obs_date": "2015-03-17 19:00:53",
+      "lambda_start_A": 7141.0,
+      "lambda_stop_A": 7393.6,
+      "local_filename": "17072a069b25af7885a2483edc3c161b_17072a069b25af7885a2483edc3c161b.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 91.5,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "fa5a4ca5fed407bad3424975dc8bf655",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd156325_20250813_523_30.fits",
+      "target": "V1077 Sco",
+      "fits_objname": "HD156325",
+      "obs_date": "2025-08-13 12:33:39",
+      "lambda_start_A": 7330.5,
+      "lambda_stop_A": 7595.5,
+      "local_filename": "fa5a4ca5fed407bad3424975dc8bf655_fa5a4ca5fed407bad3424975dc8bf655.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 72.3,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "dbbb55e572781386a9f64e7949ebf69a",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd167128_20250819_440_30.fits",
+      "target": "QV Tel",
+      "fits_objname": "HD167128",
+      "obs_date": "2025-08-19 10:33:53",
+      "lambda_start_A": 7330.5,
+      "lambda_stop_A": 7595.5,
+      "local_filename": "dbbb55e572781386a9f64e7949ebf69a_dbbb55e572781386a9f64e7949ebf69a.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 72.4,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "75dc556261db9be26321f825d24522dc",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd163296_20250820_500_30.fits",
+      "target": "HD 163296",
+      "fits_objname": "HD163296",
+      "obs_date": "2025-08-20 11:59:50",
+      "lambda_start_A": 7330.5,
+      "lambda_stop_A": 7595.5,
+      "local_filename": "75dc556261db9be26321f825d24522dc_75dc556261db9be26321f825d24522dc.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 71.4,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "7d4c4fa6a0e9bef4a228822fc417232f",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F8innewteshel121qhy268m%2F_hd158220_20210908_463_30.fits",
+      "target": "V862 Ara",
+      "fits_objname": "HD158220",
+      "obs_date": "2021-09-08 11:06:54",
+      "lambda_start_A": 7360.5,
+      "lambda_stop_A": 7629.5,
+      "local_filename": "7d4c4fa6a0e9bef4a228822fc417232f_7d4c4fa6a0e9bef4a228822fc417232f.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 83.6,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "b086f46f6c816ba361000ffcf21b7df2",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_pluckas%2Frc14eshelasi2600%2F_lam_eri_20241220_535_30.fits",
+      "target": "lam Eri",
+      "fits_objname": "lam_Eri",
+      "obs_date": "2024-12-20 12:49:43",
+      "lambda_start_A": 7365.5,
+      "lambda_stop_A": 7631.5,
+      "local_filename": "b086f46f6c816ba361000ffcf21b7df2_b086f46f6c816ba361000ffcf21b7df2.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 87.8,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "cda66a2c9e7938578416697eebe2a24f",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F8innewteshel121qhy268m%2F_hd158220_20210908_463_29.fits",
+      "target": "V862 Ara",
+      "fits_objname": "HD158220",
+      "obs_date": "2021-09-08 11:06:54",
+      "lambda_start_A": 7569.0,
+      "lambda_stop_A": 7847.2,
+      "local_filename": "cda66a2c9e7938578416697eebe2a24f_cda66a2c9e7938578416697eebe2a24f.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 100.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "3337456bf94b9e645e515aa88b3c343f",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd156325_20250813_523_29.fits",
+      "target": "V1077 Sco",
+      "fits_objname": "HD156325",
+      "obs_date": "2025-08-13 12:33:39",
+      "lambda_start_A": 7578.5,
+      "lambda_stop_A": 7848.3,
+      "local_filename": "3337456bf94b9e645e515aa88b3c343f_3337456bf94b9e645e515aa88b3c343f.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 100.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "1adea536443ecefb28a618135a2d2d35",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd163296_20250820_500_29.fits",
+      "target": "HD 163296",
+      "fits_objname": "HD163296",
+      "obs_date": "2025-08-20 11:59:50",
+      "lambda_start_A": 7578.5,
+      "lambda_stop_A": 7848.2,
+      "local_filename": "1adea536443ecefb28a618135a2d2d35_1adea536443ecefb28a618135a2d2d35.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 100.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "dd98302eccaecd9b4d1919923ffe9f1d",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F10innewteshel121qhy268m%2F_hd167128_20250819_440_29.fits",
+      "target": "QV Tel",
+      "fits_objname": "HD167128",
+      "obs_date": "2025-08-19 10:33:53",
+      "lambda_start_A": 7578.5,
+      "lambda_stop_A": 7848.1,
+      "local_filename": "dd98302eccaecd9b4d1919923ffe9f1d_dd98302eccaecd9b4d1919923ffe9f1d.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 100.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "5356a0cb573d73f8cc80b8b48f85148c",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_bheathcote%2F8innewteshel121qhy268m%2F_hd158220_20210908_463_28.fits",
+      "target": "V862 Ara",
+      "fits_objname": "HD158220",
+      "obs_date": "2021-09-08 11:06:54",
+      "lambda_start_A": 7848.0,
+      "lambda_stop_A": 8115.3,
+      "local_filename": "5356a0cb573d73f8cc80b8b48f85148c_5356a0cb573d73f8cc80b8b48f85148c.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 100.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "ed4884f43c728230da90bd646c2c027b",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_tgarrel%2Fdenise%2F20151010-210839-12Vul-5x600s-P_1C_28.fits",
+      "target": "12 Vul",
+      "fits_objname": "12 Vul",
+      "obs_date": "2015-10-10 21:08:39",
+      "lambda_start_A": 7860.1,
+      "lambda_stop_A": 8153.2,
+      "local_filename": "ed4884f43c728230da90bd646c2c027b_ed4884f43c728230da90bd646c2c027b.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 98.0,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "f8353a4f09338fc2e3781d9e5f635298",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_tgarrel%2Fdenise%2F20140504-204317-5cnc-3x600s-P_1C_27.fits",
+      "target": "5 Cnc",
+      "fits_objname": "5 cnc",
+      "obs_date": "2014-05-04 20:43:17",
+      "lambda_start_A": 8152.1,
+      "lambda_stop_A": 8271.3,
+      "local_filename": "f8353a4f09338fc2e3781d9e5f635298_f8353a4f09338fc2e3781d9e5f635298.fits",
+      "diagnostic": {
+        "flux_median": 0.0,
+        "pct_zeros": 99.2,
+        "cause": "flux_median_zero"
+      }
+    },
+    {
+      "id_duckdb": "df71e5abca81020da47d9f9007739b87",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_jguarroflo%2Fpierameade16noutasi2600mm%2F_delsco_20210709_962_23.fits",
+      "target": "del Sco",
+      "fits_objname": "DEL SCO",
+      "obs_date": "2021-07-09 23:05:10",
+      "lambda_start_A": 9289.0,
+      "lambda_stop_A": 9765.0,
+      "local_filename": "df71e5abca81020da47d9f9007739b87_df71e5abca81020da47d9f9007739b87.fits",
+      "diagnostic": {
+        "flux_median": -0.010507,
+        "pct_zeros": 0.0,
+        "cause": "flux_median_negative"
+      }
+    },
+    {
+      "id_duckdb": "9e7057adb488f0ed309b1d50da1e93cf",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_jguarroflo%2Fpierameade16noutasi2600mm%2F_delsco_20210707_855_23.fits",
+      "target": "del Sco",
+      "fits_objname": "DEL SCO",
+      "obs_date": "2021-07-07 20:30:39",
+      "lambda_start_A": 9289.0,
+      "lambda_stop_A": 9765.0,
+      "local_filename": "9e7057adb488f0ed309b1d50da1e93cf_9e7057adb488f0ed309b1d50da1e93cf.fits",
+      "diagnostic": {
+        "flux_median": -0.034026,
+        "pct_zeros": 0.0,
+        "cause": "flux_median_negative"
+      }
+    },
+    {
+      "id_duckdb": "e803a315836eecb0bd5d504ce54c7c1b",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_jguarroflo%2Fpierameade16noutasi2600mm%2F_delsco_20210709_962_22.fits",
+      "target": "del Sco",
+      "fits_objname": "DEL SCO",
+      "obs_date": "2021-07-09 23:05:10",
+      "lambda_start_A": 9700.0,
+      "lambda_stop_A": 10198.9,
+      "local_filename": "e803a315836eecb0bd5d504ce54c7c1b_e803a315836eecb0bd5d504ce54c7c1b.fits",
+      "diagnostic": {
+        "flux_median": -0.059286,
+        "pct_zeros": 0.0,
+        "cause": "flux_median_negative"
+      }
+    },
+    {
+      "id_duckdb": "400eb5a28de5366ea14470ec9ab917cf",
+      "access_url_bess": "http://basebe.obspm.fr/cgi-bin/extBeSS.pl?fits=A_jguarroflo%2Fpierameade16noutasi2600mm%2F_delsco_20210707_855_22.fits",
+      "target": "del Sco",
+      "fits_objname": "DEL SCO",
+      "obs_date": "2021-07-07 20:30:39",
+      "lambda_start_A": 9700.0,
+      "lambda_stop_A": 10198.9,
+      "local_filename": "400eb5a28de5366ea14470ec9ab917cf_400eb5a28de5366ea14470ec9ab917cf.fits",
+      "diagnostic": {
+        "flux_median": -0.205804,
+        "pct_zeros": 0.0,
+        "cause": "flux_median_negative"
+      }
+    }
+  ]
+}
