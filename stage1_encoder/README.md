@@ -25,12 +25,12 @@ This encoder focuses on the 128 physically most relevant bins.
 ### 🚀 Recommended: multi-seed submission in a single `sbatch`
 
 ```bash
-cd bess_bench/stage1_encoder
-mkdir -p logs
-sbatch run_multiseed.slurm
+cd <repo_root>
+mkdir -p scripts/cluster/logs
+sbatch scripts/cluster/00_pretrain_encoder.slurm
 ```
 
-This single script (see `run_multiseed.slurm`):
+This single script (see `scripts/cluster/00_pretrain_encoder.slurm`):
 1. Trains the 3 official seeds (42, 123, 456) **sequentially on the same GPU node**
    → inter-seed variance = true algorithmic variance (no hardware effect).
 2. Evaluates each checkpoint (`evaluate.py`).
@@ -78,7 +78,7 @@ and `example_usage.py`.
 - `train.py` — Training loop with early stopping
 - `evaluate.py` — 4 diagnostic tests + UMAP
 - `export_hf.py` — Encoder export → HuggingFace Hub snapshot
-- `run_multiseed.slurm` — SLURM: 3 seeds + eval + export in one job
+- `../scripts/cluster/00_pretrain_encoder.slurm` — SLURM: 3 seeds + eval + export in one job
 
 ## Reproducibility (v1.0 benchmark)
 
@@ -106,15 +106,15 @@ and `example_usage.py`.
 **Recommended method** — a single `sbatch` does everything (train + eval + HF export):
 
 ```bash
-cd bess_bench/stage1_encoder
-mkdir -p logs
-sbatch run_multiseed.slurm
+cd <repo_root>
+mkdir -p scripts/cluster/logs
+sbatch scripts/cluster/00_pretrain_encoder.slurm
 ```
 
 **Manual method** (equivalent, without SLURM):
 
 ```bash
-cd bess_bench/stage1_encoder
+cd <repo_root>/stage1_encoder
 for s in 42 123 456 ; do
   python train.py --seed $s --run_name Halpha_all_seed${s}
   python evaluate.py --checkpoint runs/Halpha_all_seed${s}/best.pt
@@ -125,5 +125,5 @@ python export_hf.py \
     --model_id anonym-submit-26/bemae-halpha-v1
 ```
 
-Headline numbers are aggregated by `run_multiseed.slurm` in
+Headline numbers are aggregated by `scripts/cluster/00_pretrain_encoder.slurm` in
 `runs/multiseed_summary.json` (mean ± std over the 3 seeds).
